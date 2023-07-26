@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button-Misconf Repository</name>
+   <tag></tag>
+   <elementGuidId>8248ee1a-171c-421d-a428-b1f29ba711e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.active.css-a96t8w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>416f7098-92f8-46df-ac81-54f21070db79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-a96t8w</value>
+      <webElementGuid>a0087430-2cec-448e-80c5-0492ff6a0d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ac2698ce-f310-4f8c-a57b-e1c9671d8f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cfce0a50-cc52-487b-88a3-cc95b30c2888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Misconf Repository</value>
+      <webElementGuid>7c297b8a-ba25-4e5b-bb72-cf50336b733c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-pojag2&quot;]/div[1]/div[1]/div[@class=&quot;appsSecurity MuiBox-root css-ri3frw&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-5zrdvy&quot;]/div[@class=&quot;MuiBox-root css-1exlo6o&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-aksuhv&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-ytvjzb&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-a96t8w&quot;]</value>
+      <webElementGuid>ffc3362d-e42d-4b07-a9ff-dbeb056764dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>e2db95a3-8e18-4fb0-b477-d23b97c1324e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[3]/div/div[2]/div/div[5]/button</value>
+      <webElementGuid>5626f8ac-a86d-4b1a-b475-e12f1ff5a223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Scan Secret'])[1]/following::button[1]</value>
+      <webElementGuid>943400d6-95cc-40fb-8d34-09d2553bec69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results Secret'])[1]/following::button[2]</value>
+      <webElementGuid>961f2e93-93a5-4bd8-a472-bfe3c82b1428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Security'])[1]/preceding::button[1]</value>
+      <webElementGuid>cd0b9538-57ee-475d-a9d5-8713816b9c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Scan'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e45a8ca-6c81-45ef-af51-7a88d4a46d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Misconf Repository']/parent::*</value>
+      <webElementGuid>98196cfa-31a2-4879-97c2-b46b018a0cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>0dfff6c4-e777-42bc-9cd3-f684971ba9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Misconf Repository' or . = 'Misconf Repository')]</value>
+      <webElementGuid>92dce95b-0310-4cbc-b009-82c1888369e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

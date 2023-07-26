@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>End of Scroll</name>
+   <tag></tag>
+   <elementGuidId>a18698b1-fba0-4f01-9d6c-84a60622b78d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::div[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d30a87f6-aa67-4ff7-97b9-22ffec6b11fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h4 css-1g5k2xj-MuiTypography-root</value>
+      <webElementGuid>aedcc366-7e36-4854-81bd-4e3490704fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>line of number</value>
+      <webElementGuid>db7a75f5-12ab-4523-84a2-8fe0f7a2de37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mui-internal-clone-element</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>95802a4c-90cf-4488-9bf8-87826b815d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>L89</value>
+      <webElementGuid>6257ae3e-bae7-4004-8bb7-7f0637eb2f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-t7hvnb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-olrr97-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 css-58piky-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1fo73a4-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1jgzasw&quot;]/div[1]/div[1]/ul[@class=&quot;MuiList-root MuiList-padding css-1r06ao8-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-wuwmna&quot;]/ul[@class=&quot;MuiList-root css-f9iaoj-MuiList-root&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-vnzyau-MuiListItem-root&quot;]/div[@class=&quot;MuiListItemText-root css-9s69ma-MuiListItemText-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-9cyib4-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-md-5 css-1t36e6r-MuiGrid-root&quot;]/div[@class=&quot;MuiTypography-root MuiTypography-h4 css-1g5k2xj-MuiTypography-root&quot;]</value>
+      <webElementGuid>a5d62d29-5837-447e-ba0f-f188cad7fd50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/ul/div/ul/li[10]/div/div/div[2]/div</value>
+      <webElementGuid>b21f3161-4f55-4a9b-bca3-13e243f43685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See Issue Explanation'])[10]/following::div[2]</value>
+      <webElementGuid>3a9b2fc8-3052-44bc-ab1a-e92d534def42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAIN Scope'])[10]/following::div[3]</value>
+      <webElementGuid>395a341f-68ca-415e-9a84-b0c4eac3ebee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specify an exception class to catch or reraise the exception'])[9]/preceding::div[1]</value>
+      <webElementGuid>418f9d5b-0da6-4614-a88d-1b23b378b847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bad-practice,error-handling,suspicious'])[9]/preceding::div[2]</value>
+      <webElementGuid>455383da-58af-4504-9622-ea132c5ea760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/div/div/div[2]/div</value>
+      <webElementGuid>86398193-9bf3-4100-adad-feb78c028ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'L89' or . = 'L89')]</value>
+      <webElementGuid>0517eb3f-4f48-4b32-bed1-5c210939dcc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

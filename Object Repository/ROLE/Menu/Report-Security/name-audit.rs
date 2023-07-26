@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>name-audit</name>
+   <tag></tag>
+   <elementGuidId>dc91e2e3-1d53-43e8-91d1-24b1d2da93ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiChip-label.MuiChip-labelMedium.css-14vsv3w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>102d2810-5d2a-4d28-abf6-dfdc1896ffc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiChip-label MuiChip-labelMedium css-14vsv3w</value>
+      <webElementGuid>414719ef-98e6-4d7b-b6f4-8f3421502a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>admin-02</value>
+      <webElementGuid>6ef3007b-22a1-4de3-b678-8f1e22bea71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-17kv258&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-1xb0vqf&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-1lxmipv&quot;]/div[@class=&quot;MuiBox-root css-1dr02yn&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1kdzgra&quot;]/div[@class=&quot;MuiTableContainer-root css-1j7swhr&quot;]/table[@class=&quot;MuiTable-root MuiTable-stickyHeader css-1feehfr&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover css-1azw9qk&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft MuiTableCell-sizeMedium css-1vwidxd&quot;]/div[@class=&quot;MuiButtonBase-root MuiChip-root MuiChip-filled MuiChip-sizeMedium MuiChip-colorPrimary MuiChip-clickable MuiChip-clickableColorPrimary MuiChip-filledPrimary css-bls6q5&quot;]/span[@class=&quot;MuiChip-label MuiChip-labelMedium css-14vsv3w&quot;]</value>
+      <webElementGuid>c570a3c9-27ee-4408-b24c-b3a516bf742c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div/div[2]/div/div/div[2]/div[2]/table/tbody/tr/td/div/span</value>
+      <webElementGuid>d2e365d2-cc5d-45c4-884e-2670d3bbf0ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::span[1]</value>
+      <webElementGuid>e791d52e-be12-405e-aac4-b8550edaeef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::span[1]</value>
+      <webElementGuid>92be6f65-ff10-4e68-acf1-2bbc43aef49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth'])[1]/preceding::span[2]</value>
+      <webElementGuid>d2f340df-7a66-4ea5-bae2-ed6913bd0a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User admin-02 logged in'])[1]/preceding::span[4]</value>
+      <webElementGuid>21e0a399-6709-4dea-a369-6c700441f90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='admin-02']/parent::*</value>
+      <webElementGuid>d979e5c8-fe2c-4ffa-a7ad-9361fec21b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/span</value>
+      <webElementGuid>0251fdca-8e06-4ae0-bb15-4397fcc513cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'admin-02' or . = 'admin-02')]</value>
+      <webElementGuid>3c5280ce-bfd2-48fb-bb8b-f65862e158cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

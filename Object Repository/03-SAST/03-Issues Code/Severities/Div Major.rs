@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div Major</name>
+   <tag></tag>
+   <elementGuidId>c3ec5a9d-2ae7-4a70-823e-47b9eaff89a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7fa8ea5-9396-4811-a62a-e0a3d62f4b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters css-oganvc-MuiButtonBase-root-MuiListItemButton-root</value>
+      <webElementGuid>70a33409-4bcc-4d66-81b6-b2607e874380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8aac1a42-4d2b-45a9-bf43-552d313692c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bd65f655-0e20-40ff-8804-e2fa3ac8d01f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Major</value>
+      <webElementGuid>4e9c90b2-9d8b-4a36-9bdb-e6b2b559357c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-t7hvnb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-olrr97-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 css-dngdp1-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-pq9m6-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1r9qi7b&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded MuiAccordion-gutters css-jozmg0-MuiPaper-root-MuiAccordion-root&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-pwcg7p-MuiCollapse-root&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiAccordion-region&quot;]/div[@class=&quot;MuiAccordionDetails-root css-1y6679z-MuiAccordionDetails-root&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-1f0km3t-MuiList-root&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters css-oganvc-MuiButtonBase-root-MuiListItemButton-root&quot;]</value>
+      <webElementGuid>b0f30bfd-0148-4d0f-b29f-876af23d580b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>e59d015e-d237-4f42-9de8-2a1bbcb11da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minor'])[1]/following::div[1]</value>
+      <webElementGuid>714fece8-85fb-4b74-b5c9-249f22e1da91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Severities'])[1]/following::div[11]</value>
+      <webElementGuid>6e81637a-1472-4150-9a3b-f0252808af18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Critical'])[11]/preceding::div[4]</value>
+      <webElementGuid>34d5f984-1a51-4679-b737-22e9b74247e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>effc734b-bc1e-4cea-bfcb-27454073c281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Major' or . = 'Major')]</value>
+      <webElementGuid>b8569ea7-57bd-47f1-a66b-dde434e24064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

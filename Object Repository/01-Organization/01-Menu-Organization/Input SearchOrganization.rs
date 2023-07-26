@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input SearchOrganization</name>
+   <tag></tag>
+   <elementGuidId>bc67ec75-0185-479d-a8e0-b71651cd24ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiInputBase-input.css-8w0pxf-MuiInputBase-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ebb4f170-f7ef-4941-b71c-ffcf80b139b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Organization...</value>
+      <webElementGuid>77a6657b-8939-4916-9f7d-873dd41d1c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8dbeb57d-85f4-4d8d-b4cf-c140124b5b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input css-8w0pxf-MuiInputBase-input</value>
+      <webElementGuid>1e98dca1-76fd-4151-9647-26e1cee45b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-xm0vaz-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-hz1bth-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-3fewm9-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/div[@class=&quot;MuiBox-root css-v20fs0&quot;]/div[@class=&quot;MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth css-fcwkiq-MuiInputBase-root&quot;]/input[@class=&quot;MuiInputBase-input css-8w0pxf-MuiInputBase-input&quot;]</value>
+      <webElementGuid>7b1b98c6-77a6-4dd6-abb8-03e820c463ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>e9fb39c1-0ed7-4e06-8ce2-76b1a0b2c7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>de5cec67-35c2-4c32-9836-6a35b355154c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search Organization...' and @type = 'text']</value>
+      <webElementGuid>84543a0e-0685-42ae-9ded-58f8a1014d35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

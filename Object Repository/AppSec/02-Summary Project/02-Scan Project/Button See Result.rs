@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button See Result</name>
+   <tag></tag>
+   <elementGuidId>9eaa6acb-9dd6-4d99-a120-8cdd7fe06364</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[3]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'FINISH SCAN' or . = 'FINISH SCAN')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-contained.MuiButton-containedSuccess.MuiButton-sizeSmall.MuiButton-containedSizeSmall.MuiButtonBase-root.css-pyoa85-MuiButtonBase-root-MuiButton-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37d5bdc6-7d22-458f-995e-46a414d4c502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButtonBase-root  css-pyoa85-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>cd80c24c-3498-47c3-8690-2764d21755ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>507d533f-2059-48b5-bbf3-c1db79a29b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e3c593a-96da-46d0-a34e-14ea73597446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FINISH SCAN</value>
+      <webElementGuid>a40afe5b-5402-4d37-8bea-1a429b71d8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-4pgp87-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-hz1bth-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-3fewm9-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiBox-root css-11yre0e&quot;]/button[@class=&quot;MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeSmall MuiButton-containedSizeSmall MuiButtonBase-root  css-pyoa85-MuiButtonBase-root-MuiButton-root&quot;]</value>
+      <webElementGuid>003a1964-f89d-443d-a937-399a61b31972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[61]</value>
+      <webElementGuid>d8977a3a-1600-48ea-9564-2e7c7762effd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations your project has been successfully scanned'])[1]/following::button[1]</value>
+      <webElementGuid>52367138-9448-458f-8f46-6e9cf02b7ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/following::button[1]</value>
+      <webElementGuid>670ed5e2-eccc-40ea-8139-7ae6ff3bfe75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scanning process failed, Please check scanning log'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a2de671-b978-40e0-9caa-6797c3235594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::button[1]</value>
+      <webElementGuid>b710c35d-b18d-4672-a1da-1e654c182b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='See Result']/parent::*</value>
+      <webElementGuid>82a35258-db92-45bd-a0c7-bd572c02fe51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div/button</value>
+      <webElementGuid>2ecc2cc5-db79-40f5-a0de-4ffbd23ef3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'See Result' or . = 'See Result')]</value>
+      <webElementGuid>8b507d07-fb5f-4f5c-a1a4-15525b104fbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Comment</name>
+   <tag></tag>
+   <elementGuidId>a5753f8b-cfdf-46c6-9f4f-67e44f2de919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>39bcc624-6b7e-4fc7-a588-305835612d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>46c3ce7b-cbb9-4d90-97a1-6fff17610981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>empty textarea</value>
+      <webElementGuid>c50f70e3-dcc8-43dc-aae8-571d43ab163a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Text Style : *Bold* || ``Code`` || * Point ||</value>
+      <webElementGuid>4f901f52-a3aa-4187-beed-1d808b5be1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiPopover-root MuiMenu-root css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1n58am6-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-187kc9w-MuiList-root-MuiMenu-list&quot;]/div[@class=&quot;MuiBox-root css-bwjgg7&quot;]/div[@class=&quot;MuiBox-root css-1z0rwd7&quot;]/textarea[1]</value>
+      <webElementGuid>0df24e3c-3e73-4af4-9e11-de9c2d672ad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>0cc5694e-ca50-41f3-90ac-6205152267e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Text Style : *Bold* || ``Code`` || * Point ||']</value>
+      <webElementGuid>1f163c77-2786-48e7-88ae-3482bb297709</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div Bug</name>
+   <tag></tag>
+   <elementGuidId>96a12374-3d81-4d04-a2a2-6c120d1181cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.MuiButtonBase-root.MuiMenuItem-root.MuiMenuItem-gutters.css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Success'])[5]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fe73700c-c0fb-4659-beae-69d64903bb8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root</value>
+      <webElementGuid>018661ce-54d5-45fc-a7b7-ce8b1c75df32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>edd22aa7-f565-4a80-b7ad-176b9a6474ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>cda77446-55dc-4ef9-89e4-c4f44ce67934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bug</value>
+      <webElementGuid>cdffb1a8-7776-47d7-a709-909e7b3f3428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiPopover-root MuiMenu-root css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1n58am6-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-187kc9w-MuiList-root-MuiMenu-list&quot;]/div[@class=&quot;MuiBox-root css-jqko8t&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root&quot;]</value>
+      <webElementGuid>62703216-85eb-46dc-8b84-7d1ca3f32fe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Success'])[5]/following::li[1]</value>
+      <webElementGuid>383b8e6a-9a24-44e7-943f-02eb5efa7f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUBLIC'])[6]/following::li[1]</value>
+      <webElementGuid>914d343e-b291-4958-8d3d-c87e781eb41e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vulnerability'])[3]/preceding::li[1]</value>
+      <webElementGuid>f2a10ee8-dde1-478a-8a20-21da7170c004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li</value>
+      <webElementGuid>90d0887a-7c2a-4b58-99a4-0ec0e344e270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Bug' or . = 'Bug')]</value>
+      <webElementGuid>496fb5eb-e21d-4357-94d4-4730df1ed820</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

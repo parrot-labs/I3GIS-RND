@@ -1,0 +1,67 @@
+openapi: 3.0.0
+info:
+  title: Jakarta Post API
+  version: 1.0.0
+servers:
+  - url: https://jakarta-post-api.vercel.app
+paths:
+  /api/category:
+    get:
+      tags:
+        - default
+      summary: Get Category
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/category/indonesia/politics:
+    get:
+      tags:
+        - default
+      summary: Get Category by index
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/detailpost/indonesia/2022/03/16/police-looking-into-human-trafficking-violations-in-langkat-caging:
+    get:
+      tags:
+        - default
+      summary: Detail Post
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/podcast:
+    get:
+      tags:
+        - default
+      summary: List Podcast
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/detailpodcast/multimedia/2022/03/04/beyond-squid-game-translating-asian-film-and-tv-for-a-hungry-global-market:
+    get:
+      tags:
+        - default
+      summary: Detail Podcast
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/category/indonesia/politics/page/2:
+    get:
+      tags:
+        - default
+      summary: Search engine
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}

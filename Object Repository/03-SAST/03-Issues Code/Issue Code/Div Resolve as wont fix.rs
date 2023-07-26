@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div Resolve as wont fix</name>
+   <tag></tag>
+   <elementGuidId>869e80c8-5233-4eae-bf75-956376d46b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolve (False Positive)'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>719e8c32-3f9b-4d53-9a5a-4aab437ab8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root</value>
+      <webElementGuid>b14e7403-208a-4529-a814-216d4b4cb0dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4b23d227-d661-4888-8002-a5c2c93a8e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>ff102cab-5e01-4db2-bf18-80be6b551d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resolve as won't fix</value>
+      <webElementGuid>4dbfbc8a-cf31-44bb-a8bf-15a5034139f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiPopover-root MuiMenu-root css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1n58am6-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-187kc9w-MuiList-root-MuiMenu-list&quot;]/div[@class=&quot;MuiBox-root css-jqko8t&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root&quot;]</value>
+      <webElementGuid>ff98aadf-ac5f-41aa-b865-ee1e1afe1c43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolve (False Positive)'])[1]/following::li[1]</value>
+      <webElementGuid>1c2fc5cb-5f4d-4139-9a1e-72cdb139e87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolve (Fixed)'])[1]/following::li[2]</value>
+      <webElementGuid>8e15e495-d10c-47d7-b241-84f5d3abd405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[4]</value>
+      <webElementGuid>1d603e7b-3033-47b5-b9fb-8856f1f9c80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;Resolve as won&quot; , &quot;'&quot; , &quot;t fix&quot;) or . = concat(&quot;Resolve as won&quot; , &quot;'&quot; , &quot;t fix&quot;))]</value>
+      <webElementGuid>2a9e15a5-8f4a-4932-af4e-b638332198f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

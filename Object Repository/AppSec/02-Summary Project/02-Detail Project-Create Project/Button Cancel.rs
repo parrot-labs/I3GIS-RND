@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Cancel</name>
+   <tag></tag>
+   <elementGuidId>2d8b7029-3826-46a1-a545-724ae4b0efcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[67]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedSecondary.MuiButton-sizeLarge.MuiButton-outlinedSizeLarge.MuiButtonBase-root.css-zua3bw-MuiButtonBase-root-MuiButton-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>630607df-e520-4629-9893-be74b4d8c012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButtonBase-root  css-zua3bw-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>dfe514b0-505b-41ba-998c-e664f536a939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9d2e5652-06ea-4bd4-aa29-89555f5633bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>975bb88b-861d-4795-ba3d-b5de2595be97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>ac60a0d9-599b-40d0-947b-af765cddfa23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-zw3mfo-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-hz1bth-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth css-pu1qzu-MuiPaper-root-MuiDialog-paper&quot;]/form[1]/div[@class=&quot;MuiDialogContent-root MuiDialogContent-dividers css-74o486-MuiDialogContent-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-m9a1j-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8 MuiGrid-grid-md-10 css-167qxci-MuiGrid-root&quot;]/button[@class=&quot;MuiButton-root MuiButton-outlined MuiButton-outlinedSecondary MuiButton-sizeLarge MuiButton-outlinedSizeLarge MuiButtonBase-root  css-zua3bw-MuiButtonBase-root-MuiButton-root&quot;]</value>
+      <webElementGuid>5c087195-88a5-476c-bc7f-2e8dacd4d8af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[67]</value>
+      <webElementGuid>ffc561ac-5a59-40e9-87cf-ed647a1f4c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create project'])[1]/following::button[1]</value>
+      <webElementGuid>f86a6ba1-3206-45f8-8da1-52404309171b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[10]/following::button[2]</value>
+      <webElementGuid>ed30c523-367c-49f8-aa32-46c695c3c079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/button[2]</value>
+      <webElementGuid>b486eada-f8c4-4af7-bf9e-a9340b02cea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>a328d2aa-f02d-4a7c-b915-2c320566346c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

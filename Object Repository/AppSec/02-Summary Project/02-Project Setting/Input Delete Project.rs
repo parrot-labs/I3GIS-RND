@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Delete Project</name>
+   <tag></tag>
+   <elementGuidId>b778b595-cd91-4370-8420-fd7aa36684a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiInputBase-input.css-8w0pxf-MuiInputBase-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3521e613-5cc4-48c8-9f30-31993ca6b287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input project name for confirmation</value>
+      <webElementGuid>01e5d55a-53f3-4003-a54d-0e02ae7039f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f2587a78-5e0f-473c-98b0-35c98986fc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input css-8w0pxf-MuiInputBase-input</value>
+      <webElementGuid>f9200337-6ada-471f-9f75-c83d774940df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-s4pad5&quot;]/div[@class=&quot;MuiBox-root css-s4pad5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 css-1ejt1kz-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-1rq8uja-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7 css-1y9din5-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-v126iu-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1659ol7&quot;]/div[@class=&quot;MuiBox-root css-13malmu&quot;]/div[@class=&quot;MuiInputBase-root MuiInputBase-colorPrimary css-1uo6dk8-MuiInputBase-root&quot;]/input[@class=&quot;MuiInputBase-input css-8w0pxf-MuiInputBase-input&quot;]</value>
+      <webElementGuid>951fff65-c7a7-417f-b914-932580ae3945</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>7d0e4c04-6d40-49fe-bd8a-f262514cf24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[2]/div[2]/div/input</value>
+      <webElementGuid>d36006af-1e4b-4562-a7d8-5f23363decfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>540f0d26-dda8-4157-854a-0aaecbc42956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input project name for confirmation' and @type = 'text']</value>
+      <webElementGuid>90b6b888-83d5-4217-a546-00fd67188320</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

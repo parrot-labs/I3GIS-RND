@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <elementGuidId>fc30a7dc-59d0-4b82-9b36-c1ec43dad6f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.MuiListItem-root.MuiListItem-padding.css-l5huz9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div/div/div/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[(text() = 'defaultbuilt-in' or . = 'defaultbuilt-in')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6a54acd1-d6ba-4970-be4e-f965f47b81b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root MuiListItem-padding css-l5huz9</value>
+      <webElementGuid>76d5d9a9-525a-4c07-824c-7bc57c1fede3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>defaultbuilt-in</value>
+      <webElementGuid>0d149792-2ca9-41d7-8863-e23f237c82a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-1fwskhb&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-jq5vhs&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 css-10w7zrf&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-17m9qjl&quot;]/ul[@class=&quot;MuiList-root MuiList-padding css-4snlm4&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-padding css-l5huz9&quot;]</value>
+      <webElementGuid>d5295c92-d628-41dd-b6f4-ef82ef90d11b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div/div/div/div/ul/li</value>
+      <webElementGuid>779cd2b6-475a-4ec8-8bad-15ab7245a42c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::li[1]</value>
+      <webElementGuid>ed1e42b8-9a37-4e08-a728-33b35c9fe8c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::li[1]</value>
+      <webElementGuid>5889b99e-a283-4751-995b-e1a9d003d6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>4726e3da-03f2-4878-8eff-35b869ffa97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'defaultbuilt-in' or . = 'defaultbuilt-in')]</value>
+      <webElementGuid>25ab2e7b-bc3d-4184-9ae9-948186577a7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

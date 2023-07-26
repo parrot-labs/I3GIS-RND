@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div Unresolved</name>
+   <tag></tag>
+   <elementGuidId>dcbde1b7-dbdf-4bfe-a06e-2809edc2c742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiCollapse-root.MuiCollapse-vertical.MuiCollapse-entered.css-pwcg7p-MuiCollapse-root > div.MuiCollapse-wrapper.MuiCollapse-vertical.css-smkl36-MuiCollapse-wrapper > div.MuiCollapse-wrapperInner.MuiCollapse-vertical.css-9l5vo-MuiCollapse-wrapperInner > div.MuiAccordion-region > div.MuiAccordionDetails-root.css-1y6679z-MuiAccordionDetails-root > div.MuiList-root.MuiList-padding.css-1f0km3t-MuiList-root > div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-gutters.css-oganvc-MuiButtonBase-root-MuiListItemButton-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div[4]/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e74c1d0-c75b-4248-a839-06a92c5c86fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters css-oganvc-MuiButtonBase-root-MuiListItemButton-root</value>
+      <webElementGuid>e229e254-fe16-48ed-ac0e-7a3c9b8be39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>134a0483-09c0-40a5-9384-bc716f403343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>badf201b-9120-4a91-8046-33fc4f84351c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unresolved</value>
+      <webElementGuid>a3e04fef-65e9-4693-abb1-a34cf73a09bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-t7hvnb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-olrr97-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 css-dngdp1-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-pq9m6-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1r9qi7b&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded MuiAccordion-gutters css-jozmg0-MuiPaper-root-MuiAccordion-root&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-pwcg7p-MuiCollapse-root&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiAccordion-region&quot;]/div[@class=&quot;MuiAccordionDetails-root css-1y6679z-MuiAccordionDetails-root&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-1f0km3t-MuiList-root&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters css-oganvc-MuiButtonBase-root-MuiListItemButton-root&quot;]</value>
+      <webElementGuid>ca2f0b7a-f31f-4bd4-a822-d71230bab57d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div[2]/div/div[2]/div[4]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>6f5c451e-afde-4789-872e-8581d55f25ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resolutions'])[1]/following::div[8]</value>
+      <webElementGuid>7b39bb55-baea-4fd2-a749-7cae5210d213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Main Code'])[1]/following::div[12]</value>
+      <webElementGuid>a28d534d-a8c3-47fb-9b5f-6c32d743757e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='False Poitive'])[1]/preceding::div[4]</value>
+      <webElementGuid>10efbb48-e153-4dff-95e9-29b8e85c77e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>2313242f-1b9a-46e3-855c-4770cce1b819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unresolved' or . = 'Unresolved')]</value>
+      <webElementGuid>19ae9c2a-fdfb-4d1a-ae7c-289bb1a2f6d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

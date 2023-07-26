@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div Code Smell</name>
+   <tag></tag>
+   <elementGuidId>588f1279-41e5-4709-9664-80f7a6f330a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Vulnerability'])[3]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>928a6fe3-87d5-496d-af16-c95273ad7f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root</value>
+      <webElementGuid>8ea12807-2eca-4cf2-8ebe-2bfb8f9fb8aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1528fd6c-c95d-4f84-8234-32354e2778c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>81b69bd2-7c67-4119-a61b-4df62cf5501b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Code Smell</value>
+      <webElementGuid>95fbcc3a-f7c0-4f5c-80c4-a51d4ca61bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiPopover-root MuiMenu-root css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1n58am6-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-187kc9w-MuiList-root-MuiMenu-list&quot;]/div[@class=&quot;MuiBox-root css-jqko8t&quot;]/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters css-1pbtx2i-MuiButtonBase-root-MuiMenuItem-root&quot;]</value>
+      <webElementGuid>85ca4a89-8c12-4b54-909f-10acd15634fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vulnerability'])[3]/following::li[1]</value>
+      <webElementGuid>b7937563-4ac6-4538-97d9-2b4c9597e222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bug'])[2]/following::li[2]</value>
+      <webElementGuid>966f4199-b89c-4200-83c7-f5c589b2c9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[3]</value>
+      <webElementGuid>734f3cdc-d01e-4b09-bebc-0f99355d9c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Code Smell' or . = 'Code Smell')]</value>
+      <webElementGuid>837d2e48-a7a3-4e0f-8d7f-445311299d57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Application</name>
+   <tag></tag>
+   <elementGuidId>e7613181-d09d-46f2-89d6-d98064fe0b63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>899d2650-9638-4f00-aa16-bece0eb6f857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-subtitle2 css-1whznrt</value>
+      <webElementGuid>70ad40ee-4d88-49de-85ad-271c2914ea16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application</value>
+      <webElementGuid>b37d93f4-aba1-4e92-8174-55ae89361386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-kh93p8&quot;]/div[@class=&quot;MuiStack-root css-yc4tga&quot;]/div[@class=&quot;MuiBox-root css-c6thd1&quot;]/div[@class=&quot;MuiTypography-root MuiTypography-subtitle2 css-1whznrt&quot;]</value>
+      <webElementGuid>38e420d8-3e0b-4ab2-879c-d688ed72588d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>9e185410-6ed4-4db3-b65c-5d3ea884c347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[3]</value>
+      <webElementGuid>16f5c4ae-45c9-4c5e-8d56-fac071624fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Organization'])[1]/following::div[9]</value>
+      <webElementGuid>d942c436-2dff-4850-91b6-c0a79e73e452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic'])[1]/preceding::div[2]</value>
+      <webElementGuid>3b0071c2-a38c-4d1a-8317-9b9043eb1872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile'])[1]/preceding::div[5]</value>
+      <webElementGuid>07d9feb4-30dc-4818-a90f-87e7ea6d589d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Application']/parent::*</value>
+      <webElementGuid>17e414a0-1bcd-494a-b3a7-50a0dd057590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>14ea12d2-440b-45ad-9f90-b0d8e61777ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Application' or . = 'Application')]</value>
+      <webElementGuid>2d858e02-50e0-4c7e-9c23-bdb8b56fd7f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

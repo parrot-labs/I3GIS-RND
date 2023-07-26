@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>project-update</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e4d76dd3-c598-4b14-af13-871fb6da1526</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://10.8.60.34:5091/qa</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>UmVkaGF0MTIzNDUhQCMkJQ==</password>
+   <query>SELECT * FROM &quot;public&quot;.&quot;project-update&quot;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

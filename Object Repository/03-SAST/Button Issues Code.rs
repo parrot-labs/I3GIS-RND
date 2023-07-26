@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Issues Code</name>
+   <tag></tag>
+   <elementGuidId>146ecb8e-1701-47db-af20-aa4049019219</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58c6aabc-fb60-435f-b244-a9712ded0a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium  css-pxs639-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>d8923860-0718-45c9-a5ee-41e560f903a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>856db293-8b94-4dbe-bdb1-bfbb5cadafe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eccc6ada-361c-46fc-ad61-3a0109010042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Issues Code</value>
+      <webElementGuid>f0ce95de-7b96-4163-85ff-d17df7169ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-pojag2&quot;]/div[1]/div[1]/div[@class=&quot;appsSecurity MuiBox-root css-nvzibd&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-rnsx3a-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-tmkl6p&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-1r06ao8-MuiList-root&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding Mui-children css-xdgdwb-MuiListItem-root&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-pwcg7p-MuiCollapse-root&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-smkl36-MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-9l5vo-MuiCollapse-wrapperInner&quot;]/div[@class=&quot;MuiBox-root css-tmkl6p&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-1r06ao8-MuiList-root&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-xdgdwb-MuiListItem-root&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium  css-pxs639-MuiButtonBase-root-MuiButton-root&quot;]</value>
+      <webElementGuid>47df847e-2bba-4aea-acea-df60ec156689</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>e9f5c95b-67c3-422c-9e4e-91483b2595e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>b6e638dd-4ffc-40a8-89a6-883bf29dec32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::button[1]</value>
+      <webElementGuid>e5860582-e728-4cea-9aee-0a4e0ec035fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAST'])[1]/following::button[2]</value>
+      <webElementGuid>63155081-393e-485e-90d9-74d5505055fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Detector'])[1]/preceding::button[1]</value>
+      <webElementGuid>bf2a4527-89ef-40fd-bd0c-70ef73167e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Code Filter'])[1]/preceding::button[2]</value>
+      <webElementGuid>e22196b3-58cf-45c0-ad3a-9a9781f3e7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Issues Code']/parent::*</value>
+      <webElementGuid>1b2f95b9-b1ea-4817-95b0-8b779ce55a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>8c716e2b-bfe0-46ae-8765-899244fc0b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Issues Code' or . = 'Issues Code')]</value>
+      <webElementGuid>6009b7b9-a1ca-417b-a55c-9165c2d5ea9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

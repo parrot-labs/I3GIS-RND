@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Scroll to mid</name>
+   <tag></tag>
+   <elementGuidId>3843acb4-a265-4610-902c-c1d31ff6bd43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Comment' or . = 'Comment')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Comment' or . = 'Comment')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd5f94d7-047f-4407-9b46-9d26ad4d15ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall  css-18er80j-MuiButtonBase-root-MuiButton-root</value>
+      <webElementGuid>83be225f-10c4-45a8-9e14-47c426122401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a9c2dc1a-b1b3-490c-bcd4-94f4f6aa1bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e28a47a9-ccdf-43f3-bb1f-0574f067448f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Comment</value>
+      <webElementGuid>ae3e7bd3-9c18-4e67-8123-134b2caef672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-t7hvnb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-olrr97-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 css-58piky-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1fo73a4-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1jgzasw&quot;]/div[1]/div[1]/ul[@class=&quot;MuiList-root MuiList-padding css-1r06ao8-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-wuwmna&quot;]/ul[@class=&quot;MuiList-root css-f9iaoj-MuiList-root&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-vnzyau-MuiListItem-root&quot;]/div[@class=&quot;MuiListItemText-root css-9s69ma-MuiListItemText-root&quot;]/div[@class=&quot;MuiBox-root css-433la2&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall  css-18er80j-MuiButtonBase-root-MuiButton-root&quot;]</value>
+      <webElementGuid>9ed81fea-4748-41e3-95f3-b46dfdf9666d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[106]</value>
+      <webElementGuid>3a1bdd2d-efec-4bdb-b7ae-769c4290b1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/ul/div/ul/li[7]/div/div[3]/button[5]</value>
+      <webElementGuid>a48349c9-a2be-456b-9bc2-f5a98fc7b733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Assigneed'])[7]/following::button[1]</value>
+      <webElementGuid>ec71df91-9c99-491c-80c8-bc420443d9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[7]/following::button[2]</value>
+      <webElementGuid>91c6e10d-69e0-45dc-b9a5-40413530edbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAIN Scope'])[8]/preceding::button[1]</value>
+      <webElementGuid>669ad8ab-d19c-4536-beeb-97632f880f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See Issue Explanation'])[8]/preceding::button[1]</value>
+      <webElementGuid>b8656bf8-6515-4651-98d1-08a19d223770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/div[3]/button[5]</value>
+      <webElementGuid>bbe8dc6d-301f-4fe9-ab3d-93bf8ffdf5ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Comment' or . = 'Comment')]</value>
+      <webElementGuid>6cafc8bb-ec47-4f90-b0b3-8208597bd99e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div-Context</name>
+   <tag></tag>
+   <elementGuidId>59fe23ac-7a7e-43fd-8776-82cbfbe7ce45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-qj6a9v</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Collection'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>b9499145-8f53-44d8-9f01-e40bb6241e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-qj6a9v</value>
+      <webElementGuid>cce507f4-6d5b-4f9b-b829-3915d46cb905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ca841d33-c2f8-45f6-9e43-92723b151efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>13a190ca-8d9c-4705-b749-b1587ad87c28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>95bdf6f7-af78-41ae-a85a-8ce0e979662f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>ArrowForwardIosSharpIcon</value>
+      <webElementGuid>0b2ad133-79b6-42e2-bb70-fd4b2aca2631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel1d-header&quot;)/div[@class=&quot;MuiAccordionSummary-expandIconWrapper css-gvm87k&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-qj6a9v&quot;]</value>
+      <webElementGuid>87d6b96e-c274-4435-9115-2f9cf83938f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Collection'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>9748b61b-b402-4ece-ab62-50dd55809edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Context'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>8331245a-7250-46af-91f6-59b97b17c112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest Scan Version'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>24548f06-6a7b-48d1-8555-9e3e6b51cfc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed : Tuesday, 20 June 2023 03:32 PM'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>443be094-eb70-4805-afe2-e307a02ea95f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

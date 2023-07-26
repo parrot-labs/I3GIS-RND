@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button CreateOrganization</name>
+   <tag></tag>
+   <elementGuidId>6e743070-81d4-468f-93f5-2bfe398d4504</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[3]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiListItemButton-root.MuiListItemButton-gutters.MuiButtonBase-root.css-8bg0rw-MuiButtonBase-root-MuiListItemButton-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c83292f-f5cc-4683-884d-37ad86b75e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-8bg0rw-MuiButtonBase-root-MuiListItemButton-root</value>
+      <webElementGuid>f6a22f4a-76fd-4111-8a7e-ccd44b9f45b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cc0a3ec2-177f-4a7d-8e5b-9439c400d5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a6ef7529-2f1a-422b-adbe-9fd56d004978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Organization</value>
+      <webElementGuid>3db32466-4b47-42f7-ac5c-47a3de72ff40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-xm0vaz-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-hz1bth-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-3fewm9-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiListItemButton-root MuiListItemButton-gutters MuiButtonBase-root css-8bg0rw-MuiButtonBase-root-MuiListItemButton-root&quot;]</value>
+      <webElementGuid>db662013-7803-4c2e-b112-ca69f5eeeac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default'])[3]/following::div[5]</value>
+      <webElementGuid>e438916c-5592-42da-942a-b2dd49faf6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test-organization-new'])[1]/following::div[7]</value>
+      <webElementGuid>d192da3b-47b1-4b7f-a0ef-39a6a40d10de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[3]</value>
+      <webElementGuid>a2f3d1d0-18e2-483d-b3bf-8eef8090129a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create New Organization' or . = 'Create New Organization')]</value>
+      <webElementGuid>c8a721b7-384b-47c0-bcdd-e208e7ff3378</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

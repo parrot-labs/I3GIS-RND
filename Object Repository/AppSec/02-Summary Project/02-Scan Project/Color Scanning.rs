@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Color Scanning</name>
+   <tag></tag>
+   <elementGuidId>90125d40-61fd-4575-a523-113d440bc2dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[5]/div/div/div/div[3]/div[2]/div/div/div/div[2]/div[1]/div[9]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8c04183-2931-45a3-a09c-ca9a818f4c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1539eaf</value>
+      <webElementGuid>c465c996-5772-483b-a6d0-f5531ae991b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-s4pad5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-1bohrg4-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1kw72n9-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiStepper-root MuiStepper-horizontal MuiStepper-alternativeLabel css-2hpgh8-MuiStepper-root&quot;]/div[@class=&quot;MuiStep-root MuiStep-horizontal MuiStep-alternativeLabel Mui-completed css-n7tliy-MuiStep-root&quot;]/span[@class=&quot;MuiStepLabel-root MuiStepLabel-horizontal MuiStepLabel-alternativeLabel css-ascpo7-MuiStepLabel-root&quot;]/span[@class=&quot;MuiStepLabel-iconContainer MuiStepLabel-alternativeLabel css-vnkopk-MuiStepLabel-iconContainer&quot;]/div[@class=&quot;css-1539eaf&quot;]</value>
+      <webElementGuid>368e0111-24b1-41e9-b24f-63ea02218ade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[3]/div[3]/div/div/div/div[2]/div[5]/span/span/div</value>
+      <webElementGuid>cd48533a-4346-4239-9592-78e361c52adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software composition analysis'])[1]/following::div[3]</value>
+      <webElementGuid>025cc693-a151-4ebb-b0f9-dc0b50ccde7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Misconfiguration Scanning'])[1]/preceding::div[2]</value>
+      <webElementGuid>5e435825-520b-42b8-900c-52866fffd09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span/span/div</value>
+      <webElementGuid>ed9cb112-a8c5-4261-93de-7089fcdae92d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

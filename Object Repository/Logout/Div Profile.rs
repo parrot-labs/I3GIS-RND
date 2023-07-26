@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div Profile</name>
+   <tag></tag>
+   <elementGuidId>bff221b0-0910-464b-930e-5ce50f95f7e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiAvatar-img.css-1pqm26d-MuiAvatar-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c5ea3fd6-4894-471a-b863-b892bb0f939e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/icon/userprofile.svg</value>
+      <webElementGuid>689c8f3e-36e8-4ba0-86f6-6fab80dc5d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-img css-1pqm26d-MuiAvatar-img</value>
+      <webElementGuid>4556d75f-81f5-45eb-9db8-5fb298165019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-5093qw-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/span[@class=&quot;MuiBox-root css-19fo97z&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textSecondary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-z6fduy-MuiButtonBase-root-MuiButton-root&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-rounded css-fnt37w-MuiAvatar-root&quot;]/img[@class=&quot;MuiAvatar-img css-1pqm26d-MuiAvatar-img&quot;]</value>
+      <webElementGuid>5b7b7465-797a-46f3-a2a6-b80053668ceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/span/button/div/img</value>
+      <webElementGuid>e3a9928b-c72b-4b01-9f5c-979ecb728ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/img</value>
+      <webElementGuid>82bf2281-04d7-44bf-af1e-f52f1cf64776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/icon/userprofile.svg']</value>
+      <webElementGuid>3d73bf48-a037-4763-84e8-9b4418c8dc9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

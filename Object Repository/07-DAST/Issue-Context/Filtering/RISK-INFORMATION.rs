@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RISK-INFORMATION</name>
+   <tag></tag>
+   <elementGuidId>f5c967c0-39a0-4e31-8424-570254ed070c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[3]/ul/li[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>1773c2a9-ad6c-4b0e-b192-bcc01dd9db16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1689656519804</value>
+      <webElementGuid>d2913ed2-ca97-44f3-826f-2fe4dd850ba7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

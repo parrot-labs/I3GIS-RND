@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RISK-HIGH</name>
+   <tag></tag>
+   <elementGuidId>d4cc98b7-cba4-41bd-ae14-f0c0fe53eb11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[3]/ul/li[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>4faf042c-689f-46d7-a062-3af5cb886e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1689656503082</value>
+      <webElementGuid>f5b8ad4f-8fad-4216-aff1-fc637b0a43e6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

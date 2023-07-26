@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>percentage</name>
+   <tag></tag>
+   <elementGuidId>7441d225-a267-4362-b1c1-2f480ce29919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overal Code'])[1]/following::div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiTypography-root.MuiTypography-h5.css-1ir1uw3-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ff96368-4e69-4b9a-aaa0-68875c029862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 css-1ir1uw3-MuiTypography-root</value>
+      <webElementGuid>af9fbd72-df15-407e-9164-2e2383f4f540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>100.0%</value>
+      <webElementGuid>f373ea08-a17a-4271-ad73-1c1215f6c981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-1l5ydl0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-ynyvhl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 css-kjeztr-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-8rmnll-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-yq4sz6&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-iq4gde-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-11d9ugw-MuiGrid-root&quot;]/div[@class=&quot;MuiBox-root css-2cvokw&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;MuiTypography-root MuiTypography-h5 css-1ir1uw3-MuiTypography-root&quot;]</value>
+      <webElementGuid>460200e0-f184-4f21-a4f5-744edc0589bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>b44eaa83-9a95-4ce2-8d52-52c28d29777b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overal Code'])[1]/following::div[6]</value>
+      <webElementGuid>d832c217-206c-42d9-a4fd-2cde0a109c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Review'])[1]/following::div[6]</value>
+      <webElementGuid>664aa5ad-6fb2-4331-b044-3cd53a126f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 0 Security Hotspot to review'])[1]/preceding::div[1]</value>
+      <webElementGuid>20624b4a-87b9-48aa-b0b2-da1865975c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 0 of 0 shown'])[1]/preceding::div[10]</value>
+      <webElementGuid>33f6ffeb-674d-42bf-b09a-0e5bda553325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='100.0%']/parent::*</value>
+      <webElementGuid>660c47f5-6a69-4825-9dcc-9f23e1692a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>821c0fdf-1290-424c-a2f4-c10a75a7976a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '100.0%' or . = '100.0%')]</value>
+      <webElementGuid>adedd23e-37ae-410c-a452-c3d2d2d70f45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

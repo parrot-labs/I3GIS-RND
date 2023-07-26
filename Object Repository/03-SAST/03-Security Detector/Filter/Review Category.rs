@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Review Category</name>
+   <tag></tag>
+   <elementGuidId>9adb4a9a-2b04-4a77-9852-00345a52c04e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Priority :'])[1]/following::div[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiTypography-root.MuiTypography-h5.css-1qn5we1-MuiTypography-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>681add9a-619b-4053-9a70-2b65fa5c0adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h5 css-1qn5we1-MuiTypography-root</value>
+      <webElementGuid>6217b03c-7d9a-4270-b57d-466c9e282d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sql-injection</value>
+      <webElementGuid>4f055337-9756-48bc-9773-1847e370b464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-1l5ydl0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-17240zl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 css-kjeztr-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vts97k-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1gnsnpc&quot;]/div[1]/div[1]/ul[@class=&quot;MuiList-root MuiList-padding css-1r06ao8-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiAccordion-root MuiAccordion-rounded Mui-expanded MuiAccordion-gutters css-jozmg0-MuiPaper-root-MuiAccordion-root&quot;]/div[@class=&quot;MuiButtonBase-root MuiAccordionSummary-root Mui-expanded MuiAccordionSummary-gutters css-1asa66l-MuiButtonBase-root-MuiAccordionSummary-root&quot;]/div[@class=&quot;MuiAccordionSummary-content Mui-expanded MuiAccordionSummary-contentGutters css-o4b71y-MuiAccordionSummary-content&quot;]/div[@class=&quot;MuiBox-root css-uynxac&quot;]/div[@class=&quot;MuiTypography-root MuiTypography-h5 css-1qn5we1-MuiTypography-root&quot;]</value>
+      <webElementGuid>17313794-7126-4d23-8e76-827abd3873da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div[3]/div/div/ul/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>973be047-2849-46bb-a26b-bbbcb39e133a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[1]/following::div[6]</value>
+      <webElementGuid>21c31021-fcd8-4f3a-a455-a8d97da99b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review Priority :'])[1]/following::div[8]</value>
+      <webElementGuid>c8cb53e3-3bcb-481d-a58c-f568b19949a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make sure that executing SQL queries is safe here.'])[1]/preceding::div[4]</value>
+      <webElementGuid>7662f02c-bbc2-4275-8854-c1436b6cfd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Review'])[1]/preceding::div[5]</value>
+      <webElementGuid>9e8f2dd1-a68b-450e-b204-daf668df0a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='sql-injection']/parent::*</value>
+      <webElementGuid>fccc2131-f9a7-47df-b600-351d22389405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>78fe27a6-9373-4376-a533-90c069cd5933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'sql-injection' or . = 'sql-injection')]</value>
+      <webElementGuid>4cc2d8a4-e54c-4ef3-98e6-d32d43db712e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

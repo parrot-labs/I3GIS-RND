@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5d8540f3-d834-4a72-b085-0e00ac14e553</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://10.8.60.34:5091/qa</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>UmVkaGF0MTIzNDUhQCMkJQ==</password>
+   <query>SELECT * FROM &quot;public&quot;.&quot;login&quot;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

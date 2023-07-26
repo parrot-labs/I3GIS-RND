@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Organization</name>
+   <tag></tag>
+   <elementGuidId>72f00eb5-d9be-4d38-b969-3153a566f3c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiInputBase-input.css-8w0pxf-MuiInputBase-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1495cdac-ac8c-4b20-a4f9-752b34237356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input organization name for delete confirmation</value>
+      <webElementGuid>1a2a412d-97b1-494d-b943-3a1844164293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>84365543-994f-4bb7-bba4-8b682661ec89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input css-8w0pxf-MuiInputBase-input</value>
+      <webElementGuid>b7edc252-939b-413e-b8b0-95e38006f270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-5hr99u&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2.5 css-16rp4ra-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1a5t8j0-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-112ch5n&quot;]/div[@class=&quot;MuiInputBase-root MuiInputBase-colorPrimary css-1nza2vh-MuiInputBase-root&quot;]/input[@class=&quot;MuiInputBase-input css-8w0pxf-MuiInputBase-input&quot;]</value>
+      <webElementGuid>d9167a56-2a82-4c18-a100-1542d1051cc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>04a995d9-0ff0-4a1e-a6e1-5c9c8fbd0fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div/div/div/div[2]/div[2]/div/div[2]/div[3]/input</value>
+      <webElementGuid>730fc772-f022-44e2-a0c2-dbc44ae3515d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>d4069ecb-10fe-4d57-9553-95b7d738456b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Input organization name for delete confirmation' and @type = 'text']</value>
+      <webElementGuid>4012ac8d-e639-45e8-8dd0-be3cae94f5c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

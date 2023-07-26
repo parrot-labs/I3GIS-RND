@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button-Filter Scan Vuln</name>
+   <tag></tag>
+   <elementGuidId>996c2f7d-9952-4f11-b4a4-305f3413f758</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e96b2e4b-e38b-4636-8142-dcebc3fa722b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium  css-a96t8w</value>
+      <webElementGuid>20a497f4-f5ed-4449-b346-8c6733dce44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f6d81c68-2a8b-4084-b08c-11e827aac0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58f48807-62ce-433f-8bd5-84ae5892c5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter Scan Vuln</value>
+      <webElementGuid>8aeaa2f8-8898-494a-8c97-7c54b1afb6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-pojag2&quot;]/div[1]/div[1]/div[@class=&quot;appsSecurity MuiBox-root css-ri3frw&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-5zrdvy&quot;]/div[@class=&quot;MuiBox-root css-1exlo6o&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-aksuhv&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding Mui-children css-ytvjzb&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;MuiBox-root css-1exlo6o&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-aksuhv&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-ytvjzb&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium  css-a96t8w&quot;]</value>
+      <webElementGuid>6e06b7a9-a6f6-47a8-b7a2-59d632d4e8e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>f6e90597-aedc-475d-8ccf-a61dfea2c201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[3]/div/div[2]/div/div[3]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>20ca751b-f7c3-4a8b-9198-52364a4aabf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Vulnerability'])[1]/following::button[1]</value>
+      <webElementGuid>d1740dcc-5477-4307-841a-1baf7c40c64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCA'])[1]/following::button[2]</value>
+      <webElementGuid>e9e04bbc-0d72-4a63-b16e-226f7197ef34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secret Check'])[1]/preceding::button[1]</value>
+      <webElementGuid>cef59c72-32fc-43d7-82b0-bcbc44ec1f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results Secret'])[1]/preceding::button[2]</value>
+      <webElementGuid>c7b9a232-a926-4e0d-8078-bad734e62566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter Scan Vuln']/parent::*</value>
+      <webElementGuid>fbd35c2c-8d12-4230-9cfc-c7b9209ba18f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>0a476dac-4343-403d-9612-9a125fc697bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Filter Scan Vuln' or . = 'Filter Scan Vuln')]</value>
+      <webElementGuid>90328aa1-563e-4d85-95cc-fed8ea72181a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

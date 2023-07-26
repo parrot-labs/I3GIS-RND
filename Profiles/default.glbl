@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.8.60.34:3001/login'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin-cornel'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rgba(204, 204, 204, 1)'</initValue>
+      <name>White</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rgba(51, 194, 255, 1)'</initValue>
+      <name>Blue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://demo-lintas.i3gis.id/'</initValue>
+      <name>Lintas</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'redhat12345!@#$%'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['admin-10', 'admin-09', 'admin-08', 'admin-07', 'admin-06', 'admin-05', 'admin-04', 'admin-03', 'admin-02', 'admin-01']</initValue>
+      <name>admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rgba(204, 204, 204, 1)'</initValue>
+      <name>grey</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'\\Collection\\jakpostapinew.yml'</initValue>
+      <name>locationcollection</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

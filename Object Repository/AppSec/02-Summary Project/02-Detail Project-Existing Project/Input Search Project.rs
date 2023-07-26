@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Search Project</name>
+   <tag></tag>
+   <elementGuidId>4804a1d2-d4d8-4830-b660-bcd3f1d24dc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthLg.MuiDialog-paperFullWidth.css-1mt61lr-MuiPaper-root-MuiDialog-paper > div.MuiBox-root.css-0 > form > div.MuiBox-root.css-70qvj9 > div.MuiBox-root.css-v20fs0 > div.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.css-104trrt-MuiInputBase-root > input.MuiInputBase-input.css-8w0pxf-MuiInputBase-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1e4b1f14-685e-4d36-a7cb-4ac0fae1089a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Project...</value>
+      <webElementGuid>5de4fb60-dd07-41a2-99d4-772dd328f673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b21113eb-fcb2-42b7-9d18-fb7c2c02f0a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input css-8w0pxf-MuiInputBase-input</value>
+      <webElementGuid>c648793d-1a14-4fe2-8eb3-1590ed8b5eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-1bhkgu4-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-hz1bth-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthLg MuiDialog-paperFullWidth css-1mt61lr-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/form[1]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/div[@class=&quot;MuiBox-root css-v20fs0&quot;]/div[@class=&quot;MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth css-104trrt-MuiInputBase-root&quot;]/input[@class=&quot;MuiInputBase-input css-8w0pxf-MuiInputBase-input&quot;]</value>
+      <webElementGuid>34cfbb29-3e8d-42a8-a070-ae6da6a14b7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>131f4959-371b-48d3-84e0-55cb33a1179d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[3]/div/div/form/div/div/div/input</value>
+      <webElementGuid>ab8c36f3-fca2-4ba3-ba7d-b51c3abd7593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search Project...' and @type = 'text']</value>
+      <webElementGuid>d1d25eb9-4a4e-4371-af42-494d23823a65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

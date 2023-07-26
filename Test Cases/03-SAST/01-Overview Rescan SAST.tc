@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-Overview Rescan SAST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa746711-b9ca-453f-a44d-95b34536c833</testCaseGuid>
+</TestCaseEntity>

@@ -49,4 +49,9 @@
       <initValue>'\\Collection\\jakpostapinew.yml'</initValue>
       <name>locationcollection</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.saucedemo.com/'</initValue>
+      <name>urlweb</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

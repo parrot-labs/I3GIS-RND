@@ -42,9 +42,42 @@ for (int div = 1; div <= 10; div++) {
 	isbreak = false
 	TestObject url = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div]/td[2]/div")
 	String urlpars = WebUI.getText(url)
-	if(url == input.getValue('context', 1)) {
-		TestObject button = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div+1]/td[3]/button")
+	println(urlpars)
+	if(urlpars == GlobalVariable.urlweb) {
+		TestObject button = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div]/td[3]/button")
 		WebUI.click(button)
 		isbreak = true
+		break;
 	}
 }
+
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/li_Needs Triage'))
+WebUI.delay(1)
+WebUI.takeScreenshot()
+WebUI.verifyTextPresent('You successfully changed the status', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/Detail-Method'))
+WebUI.delay(5)
+WebUI.takeScreenshot()
+String textStatus = WebUI.getText(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/Verify-Status'))
+WebUI.verifyEqual('Needs Triage', textStatus, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/CopyHeader'))
+WebUI.takeScreenshot()
+WebUI.verifyTextPresent('Success copy on your clipboard', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(5)
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/CopyBody'))
+WebUI.takeScreenshot()
+WebUI.verifyTextPresent('Success copy on your clipboard', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/Button-RESPONSE'))
+WebUI.delay(1)
+
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/CopyHeader'))
+WebUI.takeScreenshot()
+WebUI.verifyTextPresent('Success copy on your clipboard', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(5)
+WebUI.click(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/CopyBody'))
+WebUI.takeScreenshot()
+WebUI.verifyTextPresent('Success copy on your clipboard', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(5)

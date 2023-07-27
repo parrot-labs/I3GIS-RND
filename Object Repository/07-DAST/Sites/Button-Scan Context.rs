@@ -6,19 +6,19 @@
    <elementGuidId>2ea9c5dd-db5d-44f0-b262-8e53bac8f561</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.MuiBox-root.css-k008qs > button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-1t38nk6</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//button[(text() = 'Scan Context' or . = 'Scan Context')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div[5]/div/div/div[2]/div/div[3]/ul/div/div[1]/div[1]/li/div[2]/div[3]/button[1]</value>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.css-1te4o7r</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dcdd180c-75f7-4935-9ea5-e4210ff19ad0</webElementGuid>
+      <webElementGuid>464d1ff1-9812-4c90-a70a-2c55c98676a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1t38nk6</value>
-      <webElementGuid>b5b2aa08-7df8-472e-8f14-0cff1640067a</webElementGuid>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium  css-1te4o7r</value>
+      <webElementGuid>10b19823-c2d1-46fb-bf87-db8ab24bbf7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9024854f-f5d0-471c-909d-29dd8af735b5</webElementGuid>
+      <webElementGuid>8cffdf37-1166-4a60-86cd-9ece37866ed6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ec0d5fb4-2829-47bd-b002-24439ed1e50f</webElementGuid>
+      <webElementGuid>8489435b-82db-4cbf-a8de-e8c76b42a552</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,18 +58,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Scan Context</value>
-      <webElementGuid>a8347371-e897-4f9b-961a-68e558b89a38</webElementGuid>
+      <webElementGuid>9958c95a-8f63-42b6-8a1b-fbca6d3907d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-1yepf0p&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-ips9ql&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/ul[@class=&quot;MuiList-root css-1m05t5h&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAccordion-root css-1cer09e&quot;]/div[@id=&quot;panel1d-header&quot;]/div[@class=&quot;MuiAccordionSummary-content css-1n11r91&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-17b67uj&quot;]/div[@class=&quot;MuiBox-root css-gmuwbf&quot;]/div[@class=&quot;MuiBox-root css-k008qs&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1t38nk6&quot;]</value>
-      <webElementGuid>fabc64b2-5815-4c8c-b37b-f6a547e21a41</webElementGuid>
+      <value>id(&quot;panel1d-header&quot;)/div[@class=&quot;MuiAccordionSummary-content css-1n11r91&quot;]/li[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-t1754f&quot;]/div[@class=&quot;MuiBox-root css-gmuwbf&quot;]/div[@class=&quot;MuiBox-root css-k008qs&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium  css-1te4o7r&quot;]</value>
+      <webElementGuid>67f3d513-6e18-44ea-bafc-9010f0d479d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Scan Context</value>
+      <webElementGuid>380b4b19-a830-4c7d-bd42-f98f9ea61166</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>2c32c3b6-f4a5-4861-aa2c-65cfdf369354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel1d-header']/div/li/div[2]/div[3]/button</value>
+      <webElementGuid>f16f9bdd-a681-4abe-a4b5-150b0d3bebcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abort Scan'])[1]/following::button[1]</value>
+      <webElementGuid>28681a40-0ad9-4a30-baaa-6920ee7c899d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See Log Scan'])[1]/following::button[2]</value>
+      <webElementGuid>f6dc7234-c5f0-4a97-90a1-b81475b7d772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Collection'])[1]/preceding::button[1]</value>
+      <webElementGuid>071e5a6f-ad24-45fe-b44d-e0fcdb961724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/div[3]/button</value>
+      <webElementGuid>eb043c9d-5e95-4ba1-baea-df2c79dfd978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Scan Context' or . = 'Scan Context')]</value>
+      <webElementGuid>14cf4477-147c-44ec-8ed3-038663d204d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -115,13 +179,5 @@
       <type>Main</type>
       <value>//div[2]/div/div/li/div[2]/div[3]/button</value>
       <webElementGuid>9ec79b4f-385a-4e4d-9306-01fa5d3c327f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Scan Context' or . = 'Scan Context')]</value>
-      <webElementGuid>69954486-1e91-49a6-affd-1b440ef3d265</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -72,8 +72,20 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 		WebUI.setText(findTestObject('Object Repository/07-DAST/Sites/Input-SearchContext'), input.getValue('context-name', baris))
 		WebUI.delay(1)
 		WebUI.click(findTestObject('Object Repository/07-DAST/Sites/Button-Scan Context'))
+		WebUI.delay(2)
+		WebUI.waitForElementPresent(findTestObject('Object Repository/07-DAST/Button-AbortScan'), 0, FailureHandling.OPTIONAL)
+		boolean instance = true
+		while (instance == true) {
+			instance = WebUI.verifyTextPresent('STARTING INSTANCE', false, FailureHandling.OPTIONAL)
+		}
+		boolean discurl = true
+		while (discurl == true) {
+			discurl = WebUI.verifyTextPresent('DISCOVERING URL YOUR SITE', false, FailureHandling.OPTIONAL)
+		}
+		boolean running = true
+		while (running == true) {
+			running = WebUI.verifyTextPresent('SCAN RUNNING', false, FailureHandling.OPTIONAL)
+		}
 		
 	}
-	
-	
 }

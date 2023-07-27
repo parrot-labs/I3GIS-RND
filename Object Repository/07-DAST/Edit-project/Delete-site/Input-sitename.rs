@@ -10,15 +10,15 @@
          <value>#mui-116</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div/div[6]/div/div/div[2]/div[2]/div[3]/div[2]/div[3]/div/div/input</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'Input Site Name']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[6]/div/div/div[2]/div[2]/div[3]/div[2]/div[3]/div/div/input</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a6a72db5-efc1-4ebb-ae77-56840d60758d</webElementGuid>
+      <webElementGuid>53c0b438-6a4e-446e-8d11-9e027ddc12ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f20ac3bf-f6c8-4cb2-9a54-77d18ef35d62</webElementGuid>
+      <webElementGuid>4e9a84d6-1d66-4631-a4ff-965114e654dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>name</name>
       <type>Main</type>
       <value>sitename</value>
-      <webElementGuid>10ca806e-ef69-48e2-82a3-5cf2717940e2</webElementGuid>
+      <webElementGuid>9e3cb998-d479-4a52-a89b-e596cd7ad990</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Input Site Name</value>
-      <webElementGuid>306bb79b-2419-4420-917a-28122a1d5127</webElementGuid>
+      <webElementGuid>29153c1e-bbfb-4a99-8393-e241f48bc0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>05b426b9-9560-4175-a7b3-c6bb158cb768</webElementGuid>
+      <webElementGuid>872d2299-f641-4413-a75f-968def77c44d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input css-1e8usrf</value>
-      <webElementGuid>ec30687f-7789-44c6-835e-436f74121ccd</webElementGuid>
+      <webElementGuid>6e3fb4c1-c3c2-4cf2-b5fd-b07f204d05eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mui-116</value>
-      <webElementGuid>6c7a44ad-8575-45c7-8c5c-5901b00d749e</webElementGuid>
+      <webElementGuid>d5fc311f-acba-49e2-a367-15db592bff59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mui-116&quot;)</value>
-      <webElementGuid>89fc289a-3c85-47bc-bf19-447d3686e58b</webElementGuid>
+      <webElementGuid>ea491fc8-06a5-4bac-ad35-ee4541b073ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mui-116']</value>
-      <webElementGuid>dacf46b5-ae97-49c3-95e5-575a728c56a4</webElementGuid>
+      <webElementGuid>56a9533b-317e-46b7-94ec-6c09504db4eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[6]/div/div/div[2]/div/div[2]/div[2]/div[3]/div/div/input</value>
-      <webElementGuid>21f010f0-a87f-4bf5-a5a5-b70384639426</webElementGuid>
+      <webElementGuid>420b7362-8b5f-4968-a288-f3cd32909072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
-      <webElementGuid>8ba00b60-d65c-46a4-bc57-3f94a329179e</webElementGuid>
+      <webElementGuid>910bda4b-e6a9-45dc-9257-75848cf246af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'sitename' and @placeholder = 'Input Site Name' and @type = 'text' and @id = 'mui-116']</value>
-      <webElementGuid>fc20e3f3-dd87-42aa-9b16-3c0c6e48ff9f</webElementGuid>
+      <webElementGuid>d022f33a-eb0c-4b3a-9c43-dbc7674d08a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

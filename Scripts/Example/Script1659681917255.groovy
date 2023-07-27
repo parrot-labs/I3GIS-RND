@@ -96,15 +96,18 @@ import com.kms.katalon.core.configuration.RunConfiguration as RunCofiguration
 //}
 
 
-for (int div = 1; div <= 10; div++) {
-	isbreak = false
-	TestObject url = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div]/td[2]/div")
-	String urlpars = WebUI.getText(url)
-	println(urlpars)
-	if(urlpars == 'https://opensource-demo.orangehrmlive.com/') {
-		TestObject button = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div]/td[3]/button")
-		WebUI.click(button)
-		isbreak = true
-		break;
-	}
-}
+//for (int div = 1; div <= 10; div++) {
+//	isbreak = false
+//	TestObject url = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div]/td[2]/div")
+//	String urlpars = WebUI.getText(url)
+//	println(urlpars)
+//	if(urlpars == 'https://opensource-demo.orangehrmlive.com/') {
+//		TestObject button = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div[2]/div[1]/div/div[3]/div[1]/table/tbody/tr[$div]/td[3]/button")
+//		WebUI.click(button)
+//		isbreak = true
+//		break;
+//	}
+//}
+
+String text = WebUI.getText(findTestObject('Object Repository/07-DAST/Issue-Context/See-Detail/Verify-Status'))
+println(text)

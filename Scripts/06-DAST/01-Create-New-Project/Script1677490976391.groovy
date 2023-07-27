@@ -96,27 +96,42 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 		WebUI.click(findTestObject('Object Repository/07-DAST/Button-UploadAndScan'))
 		WebUI.delay(4)
 		WebUI.waitForElementPresent(findTestObject('Object Repository/07-DAST/Button-AbortScan'), 0)
+		WebUI.verifyTextPresent('Instance', false, FailureHandling.OPTIONAL)
 		boolean scanning = true
 		while (scanning == true) {
 			scanning = WebUI.verifyTextPresent('Starting instance for scanning your site...', false, FailureHandling.OPTIONAL)
 		}
+		boolean starting = true
+		while (starting == true) {
+			starting = WebUI.verifyTextPresent('Starting instance for scanning your site...', false, FailureHandling.OPTIONAL)
+		}
+		boolean progress = true
+		while (progress == true) {
+			progress = WebUI.verifyTextPresent('DISCOVERING SITE URL', false, FailureHandling.OPTIONAL)
+		}
+		boolean scan = true
+		while (scan == true) {
+			scan = WebUI.verifyTextPresent('SCAN RUNNING', false, FailureHandling.OPTIONAL)
+		}
 	}else {
 		WebUI.click(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/div-'+input.getValue('scan-option', baris)))
 		WebUI.takeScreenshot()
-		WebUI.click(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Auth-'+input.getValue('auth', baris)))
-		WebUI.takeScreenshot()
-		WebUI.scrollToElement(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-UsernameField'), 0)
-		WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-LoginURL'), input.getValue('url', baris))
-		WebUI.delay(1)
-		WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-Username'), input.getValue('username', baris))
-		WebUI.delay(1)
-		WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-Password'), input.getValue('password', baris))
-		WebUI.delay(1)
-		WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-UsernameField'), input.getValue('username-field', baris))
-		WebUI.delay(1)
-		WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-PasswordField'), input.getValue('password-field', baris))
-		WebUI.delay(1)
-		WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-SubmitField'), input.getValue('submit', baris))
+		if(input.getValue('auth-option', baris) == 'YES') {
+			WebUI.click(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Auth-'+input.getValue('auth', baris)))
+			WebUI.takeScreenshot()
+			WebUI.scrollToElement(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-UsernameField'), 0)
+			WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-LoginURL'), input.getValue('url', baris))
+			WebUI.delay(1)
+			WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-Username'), input.getValue('username', baris))
+			WebUI.delay(1)
+			WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-Password'), input.getValue('password', baris))
+			WebUI.delay(1)
+			WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-UsernameField'), input.getValue('username-field', baris))
+			WebUI.delay(1)
+			WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-PasswordField'), input.getValue('password-field', baris))
+			WebUI.delay(1)
+			WebUI.setText(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Input-SubmitField'), input.getValue('submit', baris))
+		}
 		WebUI.delay(1)
 		WebUI.click(findTestObject('Object Repository/07-DAST/ConfigureSites/DynamicWebsite/Button-CreateSiteandScanSite'))
 		WebUI.delay(2)
@@ -125,6 +140,20 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 		boolean scanning = true
 		while (scanning == true) {
 			scanning = WebUI.verifyTextPresent('Preparing for scanning your site...', false, FailureHandling.OPTIONAL)
+		}
+		boolean starting = true
+		while (starting == true) {
+			starting = WebUI.verifyTextPresent('Starting instance for scanning your site...', false, FailureHandling.OPTIONAL)
+		}
+		boolean progress = true
+		while (progress == true) {
+			progress = WebUI.verifyTextPresent('DISCOVERING SITE URL', false, FailureHandling.OPTIONAL)
+		}
+		boolean scan = true
+		while (scan == true) {
+			scan = WebUI.verifyTextPresent('SCAN RUNNING', false, FailureHandling.OPTIONAL)
+		}
 	}
-	}
+	WebUI.delay(3)
+	WebUI.verifyTextPresent('Scan Site Successfully', false, FailureHandling.OPTIONAL)
 }

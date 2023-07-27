@@ -26,10 +26,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>48272281-9116-416c-8b0e-69f935ef81cd</guid>
+      <guid>34db0cea-3cad-4348-88ef-427da99e04eb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/01-Organization/00-Select Organization</testCaseId>
+      <testCaseId>Test Cases/01-Organization/01-Create Organization</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

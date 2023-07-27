@@ -6,12 +6,12 @@
    <elementGuidId>bff221b0-0910-464b-930e-5ce50f95f7e0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.MuiAvatar-img.css-1pqm26d-MuiAvatar-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[2]/div[2]/div/span/button/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>c5ea3fd6-4894-471a-b863-b892bb0f939e</webElementGuid>
+      <webElementGuid>e65138cc-2da7-48c4-8cca-ee71ef3ba9b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/static/icon/userprofile.svg</value>
-      <webElementGuid>689c8f3e-36e8-4ba0-86f6-6fab80dc5d67</webElementGuid>
+      <webElementGuid>b0a41deb-9804-4884-8ee0-0e42d8ba4c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAvatar-img css-1pqm26d-MuiAvatar-img</value>
-      <webElementGuid>4556d75f-81f5-45eb-9db8-5fb298165019</webElementGuid>
+      <webElementGuid>20f066ce-4495-420f-a587-d370832c1e6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-5093qw-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-70qvj9&quot;]/span[@class=&quot;MuiBox-root css-19fo97z&quot;]/button[@class=&quot;MuiButton-root MuiButton-text MuiButton-textSecondary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root css-z6fduy-MuiButtonBase-root-MuiButton-root&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-rounded css-fnt37w-MuiAvatar-root&quot;]/img[@class=&quot;MuiAvatar-img css-1pqm26d-MuiAvatar-img&quot;]</value>
-      <webElementGuid>5b7b7465-797a-46f3-a2a6-b80053668ceb</webElementGuid>
+      <webElementGuid>e44d8a9a-5712-4f92-8848-00974d83f60e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/span/button/div/img</value>
-      <webElementGuid>e3a9928b-c72b-4b01-9f5c-979ecb728ffe</webElementGuid>
+      <webElementGuid>208bac9f-f99e-4dd0-9c23-9a2ccbe4c85e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div/img</value>
-      <webElementGuid>82bf2281-04d7-44bf-af1e-f52f1cf64776</webElementGuid>
+      <webElementGuid>0e16a52e-91b9-4d71-8536-62a6e1bade4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/static/icon/userprofile.svg']</value>
-      <webElementGuid>3d73bf48-a037-4763-84e8-9b4418c8dc9d</webElementGuid>
+      <webElementGuid>dfc3d815-00f1-4148-a82c-af20a0ba257c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -68,7 +68,7 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1051b6ed-95c5-4207-a38e-76e9664b2b1b</guid>
+      <guid>5f824a0c-ae0f-4f37-a7d0-95400fe96ae6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/00-Logout/00-Logout-sukses</testCaseId>

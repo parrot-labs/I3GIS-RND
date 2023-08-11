@@ -6,15 +6,19 @@
    <elementGuidId>d80f7606-84e0-4db1-a7c3-3b7ed5e10f29</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-efr6zd-MuiButtonBase-root-MuiIconButton-root</value>
+         <key>BASIC</key>
+         <value>//button[@aria-label = 'Clear Filter']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[136]</value>
+         <value>/html/body/div/div[6]/div/div/div/div[2]/div/div[1]/div/div[2]/div/div[1]/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.css-efr6zd-MuiButtonBase-root-MuiIconButton-root</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e4b69db4-d8bc-4c6a-8ae9-3e1fd7e70b6c</webElementGuid>
+      <webElementGuid>6d680a66-2334-4d3a-be63-563ac1ca3354</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-efr6zd-MuiButtonBase-root-MuiIconButton-root</value>
-      <webElementGuid>2b101605-603a-455a-8e5c-5d31ccfed0ff</webElementGuid>
+      <webElementGuid>65fff12d-56ad-43bc-ab0d-f5a677592c17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>91bfc3be-94a4-449b-9727-ec3dff424b15</webElementGuid>
+      <webElementGuid>70be226e-01d7-41dd-a860-3950387992ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0b15056d-6a1c-44cd-8c8e-25987715ca7b</webElementGuid>
+      <webElementGuid>1e0cb356-aa19-4b55-9129-d45691deed03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Clear Filter</value>
-      <webElementGuid>1dc3a85a-b2bb-4b35-a32e-1d5ec948af17</webElementGuid>
+      <webElementGuid>eba09eb4-b865-49a8-8fed-e6bbee61e976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>data-mui-internal-clone-element</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>23c88e6b-483d-452c-a757-12ebd5acd3ef</webElementGuid>
+      <webElementGuid>2e6c511f-b842-4d3b-a8a3-f7bed9fc316f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-t7hvnb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-olrr97-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-52agfe-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 css-dngdp1-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-pq9m6-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-jm1aav&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-efr6zd-MuiButtonBase-root-MuiIconButton-root&quot;]</value>
-      <webElementGuid>faa76693-4e57-4d93-952a-ca13a80d1b7a</webElementGuid>
+      <webElementGuid>c36aae7c-b884-4f06-b78f-67b70621c3c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[136]</value>
-      <webElementGuid>28040a30-2027-4309-980e-43d626adb465</webElementGuid>
+      <webElementGuid>1ab021af-7bf9-4361-a414-370a30880d5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div[2]/div/div/button[2]</value>
-      <webElementGuid>8cb51d1b-6d1e-4d85-a4dd-a0d0e3fee01d</webElementGuid>
+      <webElementGuid>5b3e4b5a-05d4-4f65-84a8-7c7236e502b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::button[2]</value>
-      <webElementGuid>67237f5c-c418-40d3-9179-fee3f88ac41e</webElementGuid>
+      <webElementGuid>3e26a755-76a0-492a-ba0f-d2ebdcc3264f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Types'])[1]/preceding::button[1]</value>
-      <webElementGuid>0f3975c4-fbcd-448f-8999-0fd6bff8d9fa</webElementGuid>
+      <webElementGuid>5b362560-794b-485e-8d18-9b557fa53d7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Code Smell'])[11]/preceding::button[1]</value>
-      <webElementGuid>55b15c38-6f70-4362-80a5-96ed73da8cd1</webElementGuid>
+      <webElementGuid>4af8256a-9908-4221-bb47-238cb72e1a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button[2]</value>
-      <webElementGuid>6f618d9f-7f3e-4bf4-a7f7-34457606ab7d</webElementGuid>
+      <webElementGuid>b729667f-0a3c-4b3d-a82f-5d1b3ae2dcd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +130,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>63f7234e-0f4b-4062-9636-d4319dd17a71</webElementGuid>
+      <webElementGuid>0533f20a-cb18-44ca-adf9-07fa1c915220</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

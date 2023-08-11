@@ -6,12 +6,16 @@
    <elementGuidId>e74171b8-1a31-4c61-94d8-7197e036a979</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Repository Access'])[2]/following::div[2]</value>
+         <key>BASIC</key>
+         <value>//*[@id = 'type' and (text() = '​' or . = '​')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#type</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[3]/div/form/div/div/div[12]/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0e4a8557-3020-4d73-bb79-10eee4d5533a</webElementGuid>
+      <webElementGuid>a44b2ddf-a477-4930-bfc7-43523cb2b1f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ebbab88c-822a-4018-b45a-61c940116196</webElementGuid>
+      <webElementGuid>18fdb58a-59d2-4812-923f-26c3fcbadc69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2e95d24f-3e8e-47e0-b656-b6d7f9299a25</webElementGuid>
+      <webElementGuid>654da713-a363-4b3c-9940-aa999409dd4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d7648866-bd58-4506-bb0d-9618dd1d111c</webElementGuid>
+      <webElementGuid>71c7c8e0-7893-4c62-be41-0e3a0db5840e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>846eb0f2-4863-4628-940f-30aaca8b9da4</webElementGuid>
+      <webElementGuid>835d301d-9ff4-4acf-9216-51cabcea6f59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>repoaccess type</value>
-      <webElementGuid>68a78dbc-9a8a-4a61-92c2-fba7b45a7d14</webElementGuid>
+      <webElementGuid>4da27f87-aee4-44f0-bc8a-7e6151e6b83e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>id</name>
       <type>Main</type>
       <value>type</value>
-      <webElementGuid>fe1fe457-cad7-492d-b513-5a1ae701e1f6</webElementGuid>
+      <webElementGuid>ecbd75bd-6d6c-4beb-8113-bce5dde115ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-16aq49t-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input</value>
-      <webElementGuid>ca7676e4-acfc-49ae-bdf1-55fc6e777804</webElementGuid>
+      <webElementGuid>6522f33a-8658-4d80-b12e-a375c0f22ab8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +90,7 @@
       <name>text</name>
       <type>Main</type>
       <value>​</value>
-      <webElementGuid>d5a7ea2d-8df7-4992-ad7e-a102fde83cfd</webElementGuid>
+      <webElementGuid>f3f3e7bb-3b04-4874-80ec-c82889f725fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;type&quot;)</value>
-      <webElementGuid>44b3b37a-7041-42f5-bc6d-695f90527342</webElementGuid>
+      <webElementGuid>23a34b59-2d49-4544-96f4-b6a551b1c869</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='type']</value>
-      <webElementGuid>3db8ee7c-f690-4deb-a071-b0b609addf05</webElementGuid>
+      <webElementGuid>3e912623-7e2c-437c-b57d-13993c47ed4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repository'])[1]/following::div[2]</value>
-      <webElementGuid>c3cad781-05bd-4ecc-ae02-8388fcd18e2e</webElementGuid>
+      <webElementGuid>485bda81-a272-44f1-ada7-7c0f84c1151c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repository Access:'])[1]/following::div[4]</value>
-      <webElementGuid>78b41648-8d9d-437a-b171-f257a795c43e</webElementGuid>
+      <webElementGuid>ce1b8f6f-76f6-4360-9bba-dc570f7e12fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repository'])[2]/preceding::div[1]</value>
-      <webElementGuid>1344eb9c-791a-497e-bc0b-38f91546cf96</webElementGuid>
+      <webElementGuid>37b371e9-11c6-4d71-a656-2da1b0e6a8b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +138,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/div</value>
-      <webElementGuid>ff85f886-e611-4f9d-91f1-3238381ce18f</webElementGuid>
+      <webElementGuid>4ac21cf8-d0c4-450b-bc64-ede542222d63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +146,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'type' and (text() = '​' or . = '​')]</value>
-      <webElementGuid>44d4a463-7303-4b06-ba19-ac93975eed2e</webElementGuid>
+      <webElementGuid>002493a7-eb5f-4e24-829f-7531a6053281</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

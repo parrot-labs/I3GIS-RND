@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[2]/preceding::textarea[2]</value>
+         <value>/html/body/div[2]/div[3]/ul/div/div/div[1]/div/textarea[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>c1419f79-b739-4eb6-b054-8c01b25762bf</webElementGuid>
+      <webElementGuid>b8808d87-8b23-4683-92c1-14c5f63d29c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>6</value>
-      <webElementGuid>c36a1c04-20ab-44c0-86c4-1995f8d9e6a3</webElementGuid>
+      <webElementGuid>9fd623ee-af8c-495a-9b6a-b54c4aaba30b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>empty textarea</value>
-      <webElementGuid>341aacdc-aa81-4dd8-a1cf-95c871c602fc</webElementGuid>
+      <webElementGuid>15b86c1a-ef19-4f1f-bf10-f9ec3eb02b3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Text Style : *Bold* || ``Code`` || * Point ||</value>
-      <webElementGuid>67cf1cee-6968-484a-be57-7316d10b0b23</webElementGuid>
+      <webElementGuid>d3aebc72-9753-43d4-b4a4-de87df8e7da0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>testing</value>
-      <webElementGuid>67db8f2d-4103-4ba6-8ca3-52102a40ed71</webElementGuid>
+      <webElementGuid>d4aac291-e395-4ac9-b122-596579714415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiPopover-root MuiMenu-root css-10nakn3-MuiModal-root-MuiPopover-root-MuiMenu-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1n58am6-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-187kc9w-MuiList-root-MuiMenu-list&quot;]/div[@class=&quot;MuiBox-root css-bwjgg7&quot;]/div[@class=&quot;MuiBox-root css-1z0rwd7&quot;]/textarea[1]</value>
-      <webElementGuid>ca376bd7-d0f6-4fa5-8729-4703ed096476</webElementGuid>
+      <webElementGuid>e970ba95-0e28-4786-aa7d-47c62f4611e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::textarea[1]</value>
-      <webElementGuid>265f8e40-1631-406e-b676-db6de4eaa5c5</webElementGuid>
+      <webElementGuid>a4a6c2a1-d903-4956-bb67-e826714a778a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::textarea[1]</value>
-      <webElementGuid>2ae1d1fe-e640-49fd-b461-887c1d981bd5</webElementGuid>
+      <webElementGuid>bbe08a93-60a0-434d-be91-330b00c73136</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[2]/preceding::textarea[2]</value>
-      <webElementGuid>3bfdd86b-f44d-497a-86aa-8465a771c513</webElementGuid>
+      <webElementGuid>cdda8226-8940-4a1c-a6f7-126bcd016d27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[2]</value>
-      <webElementGuid>001159ef-cad3-4ced-a9f6-b4be7879b867</webElementGuid>
+      <webElementGuid>ebcf2436-ed52-4334-a407-a673672e3dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/textarea</value>
-      <webElementGuid>09a6f57b-dcaf-4d4e-b273-51b9ecda9303</webElementGuid>
+      <webElementGuid>7eb53356-111b-4dbb-87a2-fe705806274b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@placeholder = 'Text Style : *Bold* || ``Code`` || * Point ||' and (text() = 'testing' or . = 'testing')]</value>
-      <webElementGuid>a4862476-9d28-402e-aa22-70209faca144</webElementGuid>
+      <webElementGuid>237b80ec-678b-45b5-ae5d-4bcbd27b8ffa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

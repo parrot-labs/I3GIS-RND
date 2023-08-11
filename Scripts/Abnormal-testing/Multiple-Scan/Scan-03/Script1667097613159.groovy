@@ -64,5 +64,5 @@ WebUI.delay(1)
 WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Create Project/Button Create project'))
 WebUI.delay(5)
 //SCAN PROJECT
-WebUI.callTestCase(findTestCase('Test Cases/02-Project/06-Scaning Project normal'), null)
+WebUI.callTestCase(findTestCase('Test Cases/02-APPSEC/02-Project/06-Scaning Project normal'), null)
 WebUI.delay(1)

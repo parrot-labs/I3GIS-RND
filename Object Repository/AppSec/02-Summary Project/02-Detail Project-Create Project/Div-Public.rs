@@ -6,16 +6,16 @@
    <elementGuidId>4bdaa0b1-a2b8-4809-8e2a-f2d75f9ab854</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//ul/li</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//li[(text() = 'Public Access' or . = 'Public Access')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>li.MuiMenuItem-root.MuiMenuItem-gutters.MuiButtonBase-root.css-1rgm044-MuiButtonBase-root-MuiMenuItem-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[3]/ul/li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>fc887a6d-4347-4274-947f-98715d105fd9</webElementGuid>
+      <webElementGuid>64faae7f-6a0f-49cf-924e-38b1a9131db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-1rgm044-MuiButtonBase-root-MuiMenuItem-root</value>
-      <webElementGuid>3f2718b5-e78b-447d-8902-5b4c642def98</webElementGuid>
+      <webElementGuid>4f222042-a403-473d-a23f-aa12393384de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fdeb21d1-731b-48b3-ac87-19cb023b5f27</webElementGuid>
+      <webElementGuid>e4764e98-d79b-40e1-89b6-f4a54870c614</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>fdb09225-d929-42d4-91fb-ef3c01263b0c</webElementGuid>
+      <webElementGuid>a2f31665-4f77-43c1-bd4e-27bd534c5c67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b300af90-4253-47db-96d4-4c1d9728db39</webElementGuid>
+      <webElementGuid>c3fc82ba-e556-4d32-9771-beee4e0206a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>PUBLIC</value>
-      <webElementGuid>fc58c6e5-1800-4944-a60f-86d174d6d6e6</webElementGuid>
+      <webElementGuid>00e3c682-d92d-4a9b-b4b2-fa3272b9bf8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Public Access</value>
-      <webElementGuid>3aba31cd-feea-4d42-a9fe-cfbf1fc8ae42</webElementGuid>
+      <webElementGuid>f323a5aa-d10f-49db-a013-518c67ee4be0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-type&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-1n58am6-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-187kc9w-MuiList-root-MuiMenu-list&quot;]/li[@class=&quot;MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root css-1rgm044-MuiButtonBase-root-MuiMenuItem-root&quot;]</value>
-      <webElementGuid>5286a042-cecc-446a-a5b0-68f123ff3fb1</webElementGuid>
+      <webElementGuid>0dfb2a46-db2f-4b6c-9a63-44cb02cb0fce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu-type']/div[3]/ul/li</value>
-      <webElementGuid>b7e8a59e-7d66-4f83-82a7-da7aa9bda1d4</webElementGuid>
+      <webElementGuid>34e61faf-5c00-4495-8422-b84b44121130</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::li[1]</value>
-      <webElementGuid>ce9f7874-1681-46ed-8228-d3d0fde3ec81</webElementGuid>
+      <webElementGuid>66a31e37-bc81-441e-80d5-8165e000c2e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create project'])[1]/following::li[1]</value>
-      <webElementGuid>3384c3cd-0a12-4d88-9331-555a60fca1a6</webElementGuid>
+      <webElementGuid>c6042038-6d0e-4965-aba0-2252006c1b65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Private Access'])[1]/preceding::li[1]</value>
-      <webElementGuid>154ac5fc-639e-4436-b7eb-4751ae36c755</webElementGuid>
+      <webElementGuid>aa11794f-e0b2-4249-94d8-fd2ecb47acb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Public Access']/parent::*</value>
-      <webElementGuid>4cc82dca-d2b3-40ef-b07c-0227bc1ef240</webElementGuid>
+      <webElementGuid>8a26b268-5ef2-491c-b5a5-17cdf5aca70c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>9593ff4f-2bb3-480a-a7c4-b7292f4b00c3</webElementGuid>
+      <webElementGuid>74b6f737-132f-41af-8421-faa04ede9605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Public Access' or . = 'Public Access')]</value>
-      <webElementGuid>569a4361-fefb-4a33-8f8b-66dba10d8321</webElementGuid>
+      <webElementGuid>cb9a9561-e2ed-47c8-98c7-9f8f119d4740</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

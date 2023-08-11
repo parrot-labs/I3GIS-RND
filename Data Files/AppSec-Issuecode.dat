@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>AppSec-Issuecode</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>91bf5287-1464-4c9e-87ab-5cfbfb8cc484</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://10.8.60.34:5091/qa</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>UmVkaGF0MTIzNDUhQCMkJQ==</password>
+   <query>SELECT * FROM &quot;public&quot;.&quot;appsec-issuecode&quot;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

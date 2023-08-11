@@ -17,18 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-TestData input = findTestData('Data Files/project')
-
-for (int baris = 1; baris <= 1; baris++) {
-
-	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Button_Organization'))
-	WebUI.waitForElementPresent(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Input SearchOrganization'), 0, FailureHandling.OPTIONAL)
-	WebUI.takeScreenshot()
-	WebUI.setText(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Input SearchOrganization'), input.getValue('organization', baris))
-	WebUI.delay(2)
-	WebUI.waitForElementClickable(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'), 0, FailureHandling.OPTIONAL)
-	WebUI.takeScreenshot()
-	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'))
-	WebUI.delay(1)
-		
-}
+WebUI.click(findTestObject('Object Repository/Button Home'))
+WebUI.refresh()
+WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/AppSec/div_Application'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/03-SAST/Button SAST'))
+WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/03-SAST/button_Overview'))
+WebUI.delay(1)
+WebUI.waitForElementPresent(findTestObject('Object Repository/03-SAST/03-Overview/Button Rescan SAST'), 0, FailureHandling.OPTIONAL)
+WebUI.takeScreenshot()
+WebUI.click(findTestObject('Object Repository/03-SAST/03-Overview/Button New Code'))
+WebUI.delay(1)
+WebUI.takeScreenshot()
+WebUI.click(findTestObject('Object Repository/03-SAST/03-Overview/Button Overal Code'))
+WebUI.delay(1)

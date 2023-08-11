@@ -15,28 +15,28 @@
       <guid>d6ab9374-fb8c-4313-a3cf-e5cf0f3ddda5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/05-Secret Check/ResultandAudit</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/05-Secret Check/ResultandAudit</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4beba473-e120-4e60-8a62-b59cfd22b524</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/05-Secret Check/VerifyAudit</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/05-Secret Check/VerifyAudit</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6cc5242b-0fd5-41bd-9125-7815a3b26cf9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/05-Secret Check/ResultandAudit-2</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/05-Secret Check/ResultandAudit-2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>86d2f9f6-c4b6-4779-83c5-3ff2ccb9b0f3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/05-Secret Check/VerifyAudit-2</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/05-Secret Check/VerifyAudit-2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

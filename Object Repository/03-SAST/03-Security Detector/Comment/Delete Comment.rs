@@ -6,12 +6,12 @@
    <elementGuidId>b0acdc3d-f5b2-4091-b3a5-cc12ae22a9b1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='git@appsec.it'])[1]/preceding::*[name()='svg'][1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorError.MuiIconButton-sizeSmall.css-iesnh5-MuiButtonBase-root-MuiIconButton-root > svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-1oe4rwd-MuiSvgIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div[6]/div/div/div/div[2]/div[2]/div/div[6]/div[2]/div/div[1]/ul/div/div/div[2]/div[2]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>6987107e-d0b1-4a2c-9a6b-14ba1e351080</webElementGuid>
+      <webElementGuid>10c8b598-8797-4b5b-adc3-e40a891c03ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1oe4rwd-MuiSvgIcon-root</value>
-      <webElementGuid>3cba0d7a-245f-41ee-ab77-1b88d00c395c</webElementGuid>
+      <webElementGuid>aaf58a4f-5649-49e8-ab16-0fb930dbd141</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4732fb44-86d3-41b0-a83e-4c1ed7bf536c</webElementGuid>
+      <webElementGuid>b461805e-e0ee-43b6-9625-ae0523722fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d836a385-222a-4ebb-a2b6-4f466b4785eb</webElementGuid>
+      <webElementGuid>9161e52c-184d-488c-a03f-0fe5232a0297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>0fa5be94-aeb0-477d-9341-e27e8178ac4a</webElementGuid>
+      <webElementGuid>3ca65dc6-5a4c-4c84-ab2c-01dca514cca5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>DeleteTwoToneIcon</value>
-      <webElementGuid>d177381f-f57e-4458-a826-a23beb67e945</webElementGuid>
+      <webElementGuid>d888b3c7-dd01-4254-ba8e-2e6ad4eab083</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-1l5ydl0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-17240zl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 css-15g7r7r-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vts97k-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-1t4vwl2&quot;]/div[@class=&quot;MuiBox-root css-1qvljgt&quot;]/div[1]/div[1]/ul[@class=&quot;MuiList-root css-f9iaoj-MuiList-root&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/div[@class=&quot;MuiBox-root css-xw5iwc&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1i4nf6h-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 css-lxx676-MuiGrid-root&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-colorError MuiIconButton-sizeSmall css-iesnh5-MuiButtonBase-root-MuiIconButton-root&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1oe4rwd-MuiSvgIcon-root&quot;]</value>
-      <webElementGuid>5b75fe05-ee0b-4d90-b0ab-d20221c07f15</webElementGuid>
+      <webElementGuid>0665798b-0a0b-4859-bc14-c9e2b736f27f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='testing'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>21e4785c-e350-40b4-8668-18e90114564c</webElementGuid>
+      <webElementGuid>f459f55e-976a-4c98-8094-eba347094509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='August 28, 2022, 12:29 PM'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>be037205-2179-43f7-9881-d7642f297a11</webElementGuid>
+      <webElementGuid>20bdea93-1dfc-4f2f-92bf-7f02b4a7195e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='O'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>d7e15965-1253-4f34-9681-992238578c33</webElementGuid>
+      <webElementGuid>134579ed-89e4-4954-a75d-5b1ad20b35d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='git@appsec.it'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>e1b85582-316c-4b47-b735-e1c5e4448c47</webElementGuid>
+      <webElementGuid>9f862184-a671-4d78-aad0-088ca92ee993</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

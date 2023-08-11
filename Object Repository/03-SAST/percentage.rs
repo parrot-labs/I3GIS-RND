@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Overal Code'])[1]/following::div[6]</value>
+         <value>/html/body/div/div[6]/div/div/div/div[2]/div[1]/div/div[1]/div/div[2]/div/div/div/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1ff96368-4e69-4b9a-aaa0-68875c029862</webElementGuid>
+      <webElementGuid>86f1f84d-6543-496e-ace1-5fba51f59cc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTypography-root MuiTypography-h5 css-1ir1uw3-MuiTypography-root</value>
-      <webElementGuid>af9fbd72-df15-407e-9164-2e2383f4f540</webElementGuid>
+      <webElementGuid>d2a055b5-61fb-42ca-9e10-1809b7a8ee4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>100.0%</value>
-      <webElementGuid>f373ea08-a17a-4271-ad73-1c1215f6c981</webElementGuid>
+      <webElementGuid>82c158a9-5753-431c-9837-e2c471b0a606</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-9zm725&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-1l5ydl0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-ynyvhl-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 css-kjeztr-MuiGrid-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-8rmnll-MuiPaper-root-MuiCard-root&quot;]/div[@class=&quot;MuiBox-root css-yq4sz6&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-iq4gde-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 css-11d9ugw-MuiGrid-root&quot;]/div[@class=&quot;MuiBox-root css-2cvokw&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;MuiTypography-root MuiTypography-h5 css-1ir1uw3-MuiTypography-root&quot;]</value>
-      <webElementGuid>460200e0-f184-4f21-a4f5-744edc0589bc</webElementGuid>
+      <webElementGuid>90301b7b-5f9e-4037-b105-0e096551341c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[3]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>b44eaa83-9a95-4ce2-8d52-52c28d29777b</webElementGuid>
+      <webElementGuid>efe33a36-183e-44e6-8c1c-44e0f49d4d6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overal Code'])[1]/following::div[6]</value>
-      <webElementGuid>d832c217-206c-42d9-a4fd-2cde0a109c63</webElementGuid>
+      <webElementGuid>22e480e0-bf7a-471f-a329-8b0d405977b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='To Review'])[1]/following::div[6]</value>
-      <webElementGuid>664aa5ad-6fb2-4331-b044-3cd53a126f9c</webElementGuid>
+      <webElementGuid>2f10d838-95d3-45f5-a71e-bc9e6b35e506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 0 Security Hotspot to review'])[1]/preceding::div[1]</value>
-      <webElementGuid>20624b4a-87b9-48aa-b0b2-da1865975c64</webElementGuid>
+      <webElementGuid>2db1c84c-5bbd-41e6-bff8-13954fe104df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 0 of 0 shown'])[1]/preceding::div[10]</value>
-      <webElementGuid>33f6ffeb-674d-42bf-b09a-0e5bda553325</webElementGuid>
+      <webElementGuid>8930f9b3-4883-4c69-a8ee-d6e3e25ba788</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='100.0%']/parent::*</value>
-      <webElementGuid>660c47f5-6a69-4825-9dcc-9f23e1692a13</webElementGuid>
+      <webElementGuid>ddcf3ff8-bdc0-420b-ba03-6cdb6bde455e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div</value>
-      <webElementGuid>821c0fdf-1290-424c-a2f4-c10a75a7976a</webElementGuid>
+      <webElementGuid>76d588d1-62f6-422c-abac-7cdf20f408c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '100.0%' or . = '100.0%')]</value>
-      <webElementGuid>adedd23e-37ae-410c-a452-c3d2d2d70f45</webElementGuid>
+      <webElementGuid>9bc53ee6-1e11-4f72-97f9-62d3699a152f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

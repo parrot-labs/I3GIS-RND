@@ -17,18 +17,45 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-TestData input = findTestData('Data Files/project')
+WebUI.refresh()
+WebUI.delay(3)
 
-for (int baris = 1; baris <= 1; baris++) {
+WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Click Issue'))
+WebUI.delay(1)
+//WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Click Issue'))
+//WebUI.delay(3)
 
-	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Button_Organization'))
-	WebUI.waitForElementPresent(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Input SearchOrganization'), 0, FailureHandling.OPTIONAL)
-	WebUI.takeScreenshot()
-	WebUI.setText(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Input SearchOrganization'), input.getValue('organization', baris))
-	WebUI.delay(2)
-	WebUI.waitForElementClickable(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'), 0, FailureHandling.OPTIONAL)
-	WebUI.takeScreenshot()
-	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'))
-	WebUI.delay(1)
+long lastHeight=((Number) WebUI.executeJavaScript("return document.body.scrollHeight", null)).longValue();
+	println(lastHeight)
+height = ((lastHeight/916)+1)
+println(height)
+String newHeight = height
+akhir = newHeight.substring(0, newHeight.length()-11)
+println(akhir)
+//y = newHeight
+hasilakhir = ((height * 916))
+println(hasilakhir)
+
+int mulai = 0
+int next = 916
+println(next)
+String z = hasilakhir
+String hasil = z.substring(0, z.length()-11)
+println(hasil)
+int end = Integer.valueOf(hasil)
+int x = Integer.valueOf(akhir)
+
+for (int i = 1; i <= x; i++) {
+	int awal = (next + mulai)
+	println(awal)
+	mulai = awal
+	println(mulai)
+	
+	if (mulai < end) {
+		WebUI.takeScreenshot()
+		WebUI.sendKeys(findTestObject('Object Repository/03-SAST/03-Issues Code/Count Page'), Keys.chord(Keys.PAGE_DOWN))
 		
+	}else {
+		break;
+	}
 }

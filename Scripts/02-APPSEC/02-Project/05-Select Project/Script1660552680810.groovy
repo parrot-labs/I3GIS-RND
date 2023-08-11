@@ -17,18 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.refresh()
+WebUI.delay(2)
+
 TestData input = findTestData('Data Files/project')
 
-for (int baris = 1; baris <= 1; baris++) {
-
-	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Button_Organization'))
-	WebUI.waitForElementPresent(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Input SearchOrganization'), 0, FailureHandling.OPTIONAL)
-	WebUI.takeScreenshot()
-	WebUI.setText(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Input SearchOrganization'), input.getValue('organization', baris))
-	WebUI.delay(2)
-	WebUI.waitForElementClickable(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'), 0, FailureHandling.OPTIONAL)
-	WebUI.takeScreenshot()
-	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'))
+for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
+	
+	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Summary Project'))
 	WebUI.delay(1)
-		
+	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Button Project Current'))
+	WebUI.delay(1)
+	WebUI.setText(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Input Search Project'), input.getValue('project-name', baris))
+	WebUI.delay(2)
+	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Div Project'))
+	WebUI.delay(4)
+	
 }

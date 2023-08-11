@@ -29,42 +29,42 @@
       <guid>33ee6f2c-ec98-4cc8-8017-905b7b0b6c9d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02-Project/00-Create New Project</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/00-Create New Project</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f274a729-8989-4b9c-8064-a506b786c9c2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02-Project/04-Update Project</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/04-Update Project</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>142251a9-2873-451f-aa56-3246bd355cf4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02-Project/07-Scaning Project Variant</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/07-Scaning Project Variant</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>43c3b64d-ed09-4f04-8033-30f7a8f08ca0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02-Project/03-Delete Project</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/03-Delete Project</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>14379be3-0c43-4532-ad43-3d9e25f16373</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02-Project/00-Create New Project</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/00-Create New Project</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0b9a4073-13c2-43de-9b7f-db86fe1762fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/02-Project/06-Scaning Project normal</testCaseId>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/06-Scaning Project normal</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

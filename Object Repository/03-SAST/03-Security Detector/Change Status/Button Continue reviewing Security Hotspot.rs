@@ -6,15 +6,19 @@
    <elementGuidId>e6938d7b-f39d-4f8c-8346-ff931116ba2e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeSmall.MuiButton-containedSizeSmall.css-1ffg4sl-MuiButtonBase-root-MuiButton-root</value>
+         <key>BASIC</key>
+         <value>//button[(text() = 'Continue reviewing Security Hotspot' or . = 'Continue reviewing Security Hotspot')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[73]</value>
+         <value>/html/body/div[2]/div[3]/div/div/div[4]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeSmall.MuiButton-containedSizeSmall.css-1ffg4sl-MuiButtonBase-root-MuiButton-root</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2e928e33-a9cb-4f33-9fc4-77db65a9b731</webElementGuid>
+      <webElementGuid>05979dc2-1154-49b0-85c7-148d9c992bbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall  css-1ffg4sl-MuiButtonBase-root-MuiButton-root</value>
-      <webElementGuid>a55e0439-27d2-4292-a2c4-32b716d5c9ad</webElementGuid>
+      <webElementGuid>26f927e5-90c1-4528-a368-95c8230e8ae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>257b5d0a-23f6-4cdd-b21f-f4ec52fb0a8c</webElementGuid>
+      <webElementGuid>d4a4e3fc-aea6-4686-a0c4-667c7b57e1eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2b811dec-259d-4b33-be45-36426129b78e</webElementGuid>
+      <webElementGuid>b192ad2a-5f22-47f7-b043-9273ce5c9bec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue reviewing Security Hotspot</value>
-      <webElementGuid>d99af967-2b3c-416f-baf6-b77c290a2933</webElementGuid>
+      <webElementGuid>b7b89413-5836-464d-ab0b-057d2950949a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-4pgp87-MuiModal-root-MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-hz1bth-MuiDialog-container&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullWidth css-3fewm9-MuiPaper-root-MuiDialog-paper&quot;]/div[@class=&quot;MuiBox-root css-ndto4m&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1g5ybah-MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 css-1775teq-MuiGrid-root&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeSmall MuiButton-containedSizeSmall  css-1ffg4sl-MuiButtonBase-root-MuiButton-root&quot;]</value>
-      <webElementGuid>1d07956d-fdd1-478b-bde1-4db744d183c6</webElementGuid>
+      <webElementGuid>212adf4d-bff9-4ca4-989d-51a1876817cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[73]</value>
-      <webElementGuid>6dfaf4fd-70ea-4ad4-848f-477c55997b21</webElementGuid>
+      <webElementGuid>e3782203-5e0a-4621-ad09-fad97cfd615d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='successfully changed FIXED'])[1]/following::button[1]</value>
-      <webElementGuid>d43a93ba-3dc4-4a64-9144-e18c4f95c420</webElementGuid>
+      <webElementGuid>4a61f973-d45f-46bc-8827-578977a7cef5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue reviewing Security Hotspot']/parent::*</value>
-      <webElementGuid>8927fbc3-5c7e-4825-9ebc-ba12a823f346</webElementGuid>
+      <webElementGuid>f98b2fff-0a33-484b-9b23-0d7d79592d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/button</value>
-      <webElementGuid>3f2966de-f0b5-48d6-94a8-4604a3f7cb7e</webElementGuid>
+      <webElementGuid>10a45753-5ed1-4b49-a2af-5a5233092624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Continue reviewing Security Hotspot' or . = 'Continue reviewing Security Hotspot')]</value>
-      <webElementGuid>49fef089-accf-4093-a3ca-2c027327d5ec</webElementGuid>
+      <webElementGuid>6477c40b-0ba4-4195-aeac-dae75c4e1ae7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

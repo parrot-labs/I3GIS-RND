@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div-user</name>
+   <tag></tag>
+   <elementGuidId>ea5039da-7fa3-43ac-a5bd-4f52660eb6bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiButtonBase-root.MuiListItemButton-root.MuiListItemButton-root.css-1hgw9vp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@tabindex = '0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e7e5cec-c99c-4afb-b3e2-c9d7d97fac9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiListItemButton-root MuiListItemButton-root css-1hgw9vp</value>
+      <webElementGuid>fa2cee15-6d3b-48a6-be73-8484d97e59ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3e09f4a6-4908-4839-84c3-4456acc22117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df2d6781-4199-4687-b3bc-995cf19f743d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Acornel </value>
+      <webElementGuid>e818b743-5bc6-455c-84d3-f72f5cfd58e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiPopover-root MuiMenu-root MuiModal-root css-h079ba&quot;]/div[@class=&quot;MuiPaper-root MuiMenu-paper MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper css-itk7od&quot;]/ul[@class=&quot;MuiList-root MuiList-padding MuiMenu-list css-o2bs5y&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-17ujlyw&quot;]/div[1]/div[1]/ul[@class=&quot;MuiList-root css-pnz857&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItemButton-root MuiListItemButton-root css-1hgw9vp&quot;]</value>
+      <webElementGuid>8b593c47-09c0-470d-97d4-5f1abbb289be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[4]</value>
+      <webElementGuid>b71120b4-8faa-48bb-88cd-8411ae00333a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[12]</value>
+      <webElementGuid>93dbbc03-25fc-40cb-80ef-d749cb60ece3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div[2]/div/div/ul/div</value>
+      <webElementGuid>fd7d0d93-a6f6-4276-8d62-984ecf2d62f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Acornel ' or . = 'Acornel ')]</value>
+      <webElementGuid>949f6836-1888-43c9-bab2-6e2e7b4a2c84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

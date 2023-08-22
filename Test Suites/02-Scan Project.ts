@@ -60,11 +60,4 @@
       <testCaseId>Test Cases/02-APPSEC/02-Project/00-Create New Project</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>0b9a4073-13c2-43de-9b7f-db86fe1762fd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/02-APPSEC/02-Project/06-Scaning Project normal</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

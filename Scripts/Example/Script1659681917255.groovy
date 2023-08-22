@@ -109,7 +109,3 @@ import com.kms.katalon.core.configuration.RunConfiguration as RunCofiguration
 //	}
 //}
 
-import com.kms.katalon.core.configuration.RunConfiguration
-
-	TestObject issue = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/ul/div/ul/li[1]/div[2]/div[2]/div")
-	String text = WebUI.getText(issue)

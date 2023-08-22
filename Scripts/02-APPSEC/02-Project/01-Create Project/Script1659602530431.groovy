@@ -19,11 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 TestData input = findTestData('Data Files/project')
 
-WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Button Project Current'))
-WebUI.delay(1)
-
-for (int baris = 1; baris <= 1; baris++) {
+for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	
+	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Button Project Current'))
+	WebUI.delay(1)
 	WebUI.sendKeys(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Input Search Project'), Keys.chord(Keys.CONTROL, 'a'))
 	WebUI.delay(1)
 	WebUI.sendKeys(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Input Search Project'), Keys.chord(Keys.'BACK_SPACE'))

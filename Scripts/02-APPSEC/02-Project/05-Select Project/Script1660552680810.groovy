@@ -17,20 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.refresh()
+
+WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Button Project Current'))
+WebUI.delay(1)
+WebUI.setText(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Input Search Project'), 'React-Cypress')
 WebUI.delay(2)
-
-TestData input = findTestData('Data Files/project')
-
-for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
-	
-	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Summary Project'))
-	WebUI.delay(1)
-	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Button Project Current'))
-	WebUI.delay(1)
-	WebUI.setText(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Input Search Project'), input.getValue('project-name', baris))
-	WebUI.delay(2)
-	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Div Project'))
-	WebUI.delay(4)
-	
-}
+WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Div Project'))
+WebUI.delay(4)

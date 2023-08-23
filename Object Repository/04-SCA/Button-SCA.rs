@@ -6,8 +6,12 @@
    <elementGuidId>ad553ed2-fed0-49ba-a337-78f517f2ef83</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'SCA' or . = 'SCA')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.active.css-1vkpbvk</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e941cbaf-7138-42cc-b762-450dee45c968</webElementGuid>
+      <webElementGuid>07affb30-ecc3-4297-8ba7-a8593409d8af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1dem017</value>
-      <webElementGuid>2547a155-452d-4dfb-b810-175539707b64</webElementGuid>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1vkpbvk</value>
+      <webElementGuid>1b3e5bd3-e5b5-4ee5-965e-ebbdf4e26c21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3c55e1f1-419b-4db3-8e30-7848444dad3a</webElementGuid>
+      <webElementGuid>ed8b86ec-f465-41ca-88fe-d3b7312caf94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2e5ff1b9-6b2f-457e-b323-9a73a6675ced</webElementGuid>
+      <webElementGuid>10d742c1-2e2e-4929-8b50-eeb2c2af210c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +58,15 @@
       <name>text</name>
       <type>Main</type>
       <value>SCA</value>
-      <webElementGuid>5e564a0c-71b6-4dea-8499-28d4c0bdfd85</webElementGuid>
+      <webElementGuid>4130e02e-ba16-46e8-9b8f-cd04e2649b2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-pojag2&quot;]/div[1]/div[1]/div[@class=&quot;appsSecurity MuiBox-root css-ri3frw&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-5zrdvy&quot;]/div[@class=&quot;MuiBox-root css-1exlo6o&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-aksuhv&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding Mui-children css-ytvjzb&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1dem017&quot;]</value>
-      <webElementGuid>3c0f144a-8cb4-4aa0-b88e-8b835bb299cd</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-ujfhoa&quot;]/div[1]/div[1]/div[@class=&quot;applicationSecurity MuiBox-root css-1dgjfix&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-1vgizcj&quot;]/div[@class=&quot;MuiBox-root css-10ciexp&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-1ujfbkf&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding Mui-children css-1oc08cf&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1vkpbvk&quot;]</value>
+      <webElementGuid>773f2e70-72db-4efa-aa9b-c48b0ed07ed1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +74,71 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[12]</value>
-      <webElementGuid>5a635ec8-7dff-44c7-8588-b668a8499220</webElementGuid>
+      <webElementGuid>7a99ffb3-ac3b-4f08-b5e0-b657f02a8d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div/div/div/div[2]/div/div[3]/button</value>
+      <webElementGuid>dcc84584-429d-4654-afc0-2b93395b2df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Rules'])[1]/following::button[1]</value>
+      <webElementGuid>cf46a0b9-0855-4b40-b6ff-91202621cf72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Detector'])[1]/following::button[2]</value>
+      <webElementGuid>c50d0a38-9dcb-4f98-a178-bdc317b1994f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Vulnerability'])[1]/preceding::button[1]</value>
+      <webElementGuid>e76fda72-5000-4ca6-bb77-3f6116baa9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Scan Vuln'])[1]/preceding::button[2]</value>
+      <webElementGuid>5af65078-1b3b-4ebf-9cb4-6007ace51f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SCA']/parent::*</value>
+      <webElementGuid>02392416-77d4-45b7-8e98-a7ba73e91312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>1c17254f-c178-41ed-ac8a-697882727f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'SCA' or . = 'SCA')]</value>
+      <webElementGuid>84dc7e88-dc0b-4674-86a2-63f7f103d47c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,53 +155,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Code Filter'])[1]/following::button[1]</value>
       <webElementGuid>dee5370d-8140-4f8f-a63f-e9b65ed9c3c5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Detector'])[1]/following::button[2]</value>
-      <webElementGuid>0efcedaa-57bc-4e42-b2d2-869556f25b70</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Vulnerability'])[1]/preceding::button[1]</value>
-      <webElementGuid>d3290106-0d2d-4a79-b91e-5c01fc787816</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Scan Vuln'])[1]/preceding::button[2]</value>
-      <webElementGuid>226b9a36-f984-4b2a-a12d-10d4b54e99a1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='SCA']/parent::*</value>
-      <webElementGuid>7dfdfdfd-cbd0-4829-b73b-974c46dc3ab6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>7ae11b0f-8007-4497-a586-3169e4c6f0c1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'SCA' or . = 'SCA')]</value>
-      <webElementGuid>bc7a446b-5cde-46c5-b2d0-b5d389d804c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

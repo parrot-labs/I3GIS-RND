@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>issue-name</name>
+   <tag></tag>
+   <elementGuidId>7251299a-599d-4a73-a091-1d023bcdac95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiTypography-root.MuiTypography-body1.css-1sdmsxr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8cd2845b-794d-432c-9e5a-451fdca2175a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1sdmsxr</value>
+      <webElementGuid>ec139e0f-f2af-4210-a592-3a0035c2a48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Image user should not be 'root'</value>
+      <webElementGuid>00ddbc4e-ed47-4b66-93a0-9602c64af454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-1ywwf8z&quot;]/div[@class=&quot;MuiBox-root css-1u1t82v&quot;]/div[@class=&quot;MuiBox-root css-i9gxme&quot;]/div[@class=&quot;MuiBox-root css-qzmh0a&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-wvboks&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-130zmuq&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-outlined MuiPaper-rounded MuiCard-root css-evma0w&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-594jmc&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-9.5 css-1yqvoso&quot;]/div[@class=&quot;MuiBox-root css-j7qwjs&quot;]/div[@class=&quot;MuiBox-root css-2wylkd&quot;]/div[1]/div[1]/ul[@class=&quot;MuiList-root css-zpe0lb&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-wwhbwl&quot;]/div[@class=&quot;MuiBox-root css-18hbyls&quot;]/div[@class=&quot;MuiBox-root css-ud3itx&quot;]/div[@class=&quot;MuiBox-root css-nwtebv&quot;]/div[@class=&quot;MuiBox-root css-1fhka0t&quot;]/div[@class=&quot;MuiTypography-root MuiTypography-body1 css-1sdmsxr&quot;]</value>
+      <webElementGuid>927af690-3b40-47f5-b257-e861facd6005</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[6]/div/div/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div/ul/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>8d4e68b7-a4d5-4e52-9d2c-704911b4b985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='H'])[1]/following::div[2]</value>
+      <webElementGuid>20a5ac11-3bdb-4ed8-bb3e-3f2bea91c3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Dockerfile Security Check)'])[1]/preceding::div[1]</value>
+      <webElementGuid>2bbacaa8-6f11-47d9-bb8d-f6a6e7a857f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAIL'])[1]/preceding::div[2]</value>
+      <webElementGuid>e4dc977d-4e4e-4a5e-ab0d-93bb67dae20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>f653a192-540e-4f9f-9c97-786f6822ae67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Image user should not be &quot; , &quot;'&quot; , &quot;root&quot; , &quot;'&quot;) or . = concat(&quot;Image user should not be &quot; , &quot;'&quot; , &quot;root&quot; , &quot;'&quot;))]</value>
+      <webElementGuid>0c562807-2f07-4c22-b3df-aa7e2bf44456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>AppSec-scanvalidation</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0b492b5e-dc02-440c-bed2-5d274d37effc</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://10.8.60.34:5091/qa</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>UmVkaGF0MTIzNDUhQCMkJQ==</password>
+   <query>SELECT * FROM &quot;public&quot;.&quot;appsec-scanvalidation&quot;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

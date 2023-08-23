@@ -7,11 +7,15 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.MuiButton-root.MuiButton-text.MuiButton-textPrimary.MuiButton-sizeMedium.MuiButton-textSizeMedium.active.css-1vkpbvk</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[15]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'Secret Check' or . = 'Secret Check')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>488d9f55-82ba-4f6b-9988-382da4320978</webElementGuid>
+      <webElementGuid>69ed46de-1790-4589-a03a-ef1d11a363f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1dem017</value>
-      <webElementGuid>1640194d-06d2-48e0-bfcc-65cae5723bfd</webElementGuid>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1vkpbvk</value>
+      <webElementGuid>8f780c80-83a2-49de-a317-7b02e425a0a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b51d0dc1-604b-49f4-8cd3-e2432bd8d971</webElementGuid>
+      <webElementGuid>a5679b14-343b-46c0-8eb8-c5b2c5dfdea0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c78b5da-8d78-4585-b2e5-d7ccbcb2a7ca</webElementGuid>
+      <webElementGuid>184b00df-df6e-4c88-b79b-16f1c8aeb6b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,15 +58,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Secret Check</value>
-      <webElementGuid>4c4bb392-1a4c-45f9-9cf8-d0bc16ddb09e</webElementGuid>
+      <webElementGuid>4a3897ea-a11c-43c6-a0d2-b288c3999d98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-pojag2&quot;]/div[1]/div[1]/div[@class=&quot;appsSecurity MuiBox-root css-ri3frw&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-5zrdvy&quot;]/div[@class=&quot;MuiBox-root css-1exlo6o&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-aksuhv&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding Mui-children css-ytvjzb&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1dem017&quot;]</value>
-      <webElementGuid>ffa0ba97-59d5-4ae8-b112-1b832e4c8dbc</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-ujfhoa&quot;]/div[1]/div[1]/div[@class=&quot;applicationSecurity MuiBox-root css-1dgjfix&quot;]/div[@class=&quot;MuiList-root MuiList-padding MuiList-subheader css-1vgizcj&quot;]/div[@class=&quot;MuiBox-root css-10ciexp&quot;]/div[@class=&quot;MuiList-root MuiList-padding css-1ujfbkf&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1oc08cf&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium active css-1vkpbvk&quot;]</value>
+      <webElementGuid>74f6b366-30fc-4bb8-9021-edb594c5aa95</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,15 +74,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[15]</value>
-      <webElementGuid>fb77be3c-98fa-4226-9ca9-23e992bf9496</webElementGuid>
+      <webElementGuid>19cc89da-3a4f-466c-af23-ca6321047a3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/div[3]/div/div[2]/div/div[4]/button</value>
-      <webElementGuid>1169390d-8a6f-424f-bc67-a5b7ff764dda</webElementGuid>
+      <value>//div[@id='root']/div[4]/div/div/div/div/div[2]/div/div[4]/button</value>
+      <webElementGuid>41b20057-420e-4dcb-af8c-90ef34f6b0d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Scan Vuln'])[1]/following::button[1]</value>
-      <webElementGuid>780e5200-2508-47ad-8220-8f5a301bdbc5</webElementGuid>
+      <webElementGuid>3f095501-9a09-4676-b970-484ada337362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,23 +98,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Result Vulnerability'])[1]/following::button[2]</value>
-      <webElementGuid>a46b7b0a-2eb2-4e3a-8e24-ba62eca5291c</webElementGuid>
+      <webElementGuid>e126b45b-68b2-4844-a6a8-7233db7ec555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results Secret'])[1]/preceding::button[1]</value>
-      <webElementGuid>af17d83f-9418-4e72-ac4f-efa18588999a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Misconf Repository'])[1]/preceding::button[1]</value>
+      <webElementGuid>47f5321b-c95f-4b4c-8262-65a2d24691d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Scan Secret'])[1]/preceding::button[2]</value>
-      <webElementGuid>2438902d-c9f8-4621-856e-c55832f2b07e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan Validation'])[1]/preceding::button[2]</value>
+      <webElementGuid>d9d7a3da-138d-4bca-b278-1a4e981c4f87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Secret Check']/parent::*</value>
-      <webElementGuid>a23a5cb6-e721-4dab-9149-e5defe6b6d8b</webElementGuid>
+      <webElementGuid>91460cf3-4250-48c1-8afd-98ef924b9a32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>db1ba366-a919-4b24-92a7-64c4b1e1c547</webElementGuid>
+      <webElementGuid>f4a8ad35-59de-47bb-a5cf-90e43a331a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Secret Check' or . = 'Secret Check')]</value>
-      <webElementGuid>3b14ac98-4f17-4dc5-bd9c-73f34fb32ef4</webElementGuid>
+      <webElementGuid>6f587432-39b6-473c-9778-114c7ea56f30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

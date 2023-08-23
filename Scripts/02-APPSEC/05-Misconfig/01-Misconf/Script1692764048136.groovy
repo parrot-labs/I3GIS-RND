@@ -64,7 +64,7 @@ WebUI.click(findTestObject('Object Repository/06-Misconfiguration Repository/But
 WebUI.delay(1)
 WebUI.click(findTestObject('Object Repository/06-Misconfiguration Repository/li_Confirm'))
 WebUI.delay(1)
-WebUI.verifyTextNotPresent('Change Status result success', false, FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyTextPresent('Change Status result success', false, FailureHandling.STOP_ON_FAILURE)
 WebUI.refresh()
 WebUI.takeScreenshot()
 

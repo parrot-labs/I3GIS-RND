@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Button Home'))
+
 WebUI.refresh()
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/AppSec/div_Application'))

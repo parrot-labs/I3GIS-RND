@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 TestData input = findTestData('Data Files/project')
 
-for (int baris = 1; baris <= 1; baris++) {
+for (int baris = 2; baris <= 2; baris++) {
 
 	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/Button_Organization'))
 	WebUI.delay(1)

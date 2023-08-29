@@ -49,7 +49,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 				TestObject delete = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div[1]/div[6]/div/div/div/div[2]/div/div[3]/div[1]/div/table/tbody/tr[$brs]/td[6]/div/div[1]/button")
 				WebUI.click(delete)
 				WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/Button-Delete'))
-				WebUI.delay(1)
+				WebUI.delay(2)
 				WebUI.verifyTextPresent('Profile successfully deleted', false, FailureHandling.OPTIONAL)
 				isbreak=true;
 				break;
@@ -66,7 +66,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/li_Java'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/Button-Create'))
-	WebUI.delay(1)
+	WebUI.delay(2)
 	WebUI.verifyTextPresent('Profile successfully created', false, FailureHandling.STOP_ON_FAILURE)
 	
 }

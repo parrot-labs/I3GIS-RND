@@ -40,6 +40,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	
 	WebUI.setText(findTestObject('Object Repository/AppSec/Custom-Rules/Search-Language'), input.getValue('language', baris))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 	if(WebUI.verifyTextPresent(input.getValue('name-rules', baris), false, FailureHandling.OPTIONAL) == true) {
 		for (int brs = 1; baris <= 10; brs++) {
 			isbreak=false;
@@ -48,8 +49,10 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 			if(language == input.getValue('name-rules', baris)) {
 				TestObject delete = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div[1]/div[6]/div/div/div/div[2]/div/div[3]/div[1]/div/table/tbody/tr[$brs]/td[6]/div/div[1]/button")
 				WebUI.click(delete)
+				WebUI.takeScreenshot()
 				WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/Button-Delete'))
 				WebUI.delay(2)
+				WebUI.takeScreenshot()
 				WebUI.verifyTextPresent('Profile successfully deleted', false, FailureHandling.OPTIONAL)
 				isbreak=true;
 				break;
@@ -59,14 +62,17 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	
 	WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/Button-Create Profile'))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 	WebUI.setText(findTestObject('Object Repository/AppSec/Custom-Rules/Input-Name-ruleName'), input.getValue('name-rules', baris))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/Span-Language'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/li_Java'))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 	WebUI.click(findTestObject('Object Repository/AppSec/Custom-Rules/Button-Create'))
 	WebUI.delay(2)
+	WebUI.takeScreenshot()
 	WebUI.verifyTextPresent('Profile successfully created', false, FailureHandling.STOP_ON_FAILURE)
 	
 }

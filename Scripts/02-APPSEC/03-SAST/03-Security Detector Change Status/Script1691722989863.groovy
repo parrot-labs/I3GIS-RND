@@ -37,10 +37,12 @@ while (status == true) {
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/03-SAST/03-Security Detector/Change Status/Div Fixed'))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 	WebUI.click(findTestObject('Object Repository/03-SAST/03-Security Detector/Change Status/Button Change Status1'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/03-SAST/03-Security Detector/Change Status/Button Continue reviewing Security Hotspot'))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 	WebUI.verifyTextPresent('Edit status security issue success', false, FailureHandling.OPTIONAL)
 	WebUI.delay(3)
 	

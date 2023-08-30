@@ -30,5 +30,6 @@ for (int baris = 2; baris <= 2; baris++) {
 	WebUI.takeScreenshot()
 	WebUI.click(findTestObject('Object Repository/01-Organization/01-Menu-Organization/div Organization'))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 		
 }

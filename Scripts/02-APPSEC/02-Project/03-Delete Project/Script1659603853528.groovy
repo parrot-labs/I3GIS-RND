@@ -17,39 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-TestData input = findTestData('null')
+TestData input = findTestData('Data Files/project')
 
-WebUI.delay(2)
 WebUI.refresh()
-WebUI.delay(2)
-WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Summary Project'))
-WebUI.delay(2)
-WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Select Project Current'))
-WebUI.delay(1)
+WebUI.delay(3)
 WebUI.takeScreenshot()
 
 
 for (int baris = 1; baris <= 1; baris++) {
-	
-	WebUI.setText(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Input Search Project'), input.getValue('project-name', baris))
-	WebUI.delay(1)
-	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Existing Project/Div Project'))
-	WebUI.delay(1)
-	WebUI.takeScreenshot()
+
 	WebUI.waitForElementClickable(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Setting Project'), 0, FailureHandling.OPTIONAL)
 	
-	String name = input.getValue('project-name', baris)
-	String result = name.toLowerCase();
-	WebUI.verifyTextPresent(result, false, FailureHandling.OPTIONAL)
+//	String name = input.getValue('project-name', baris)
+//	String result = name.toLowerCase();
+//	WebUI.verifyTextPresent(result, false, FailureHandling.OPTIONAL)
 	
 	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Setting Project'))
 	WebUI.delay(1)
 	WebUI.takeScreenshot()
 	WebUI.scrollToElement(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Input Delete Project'), 0)
-	WebUI.setText(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Input Delete Project'), result)
+	WebUI.setText(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Input Delete Project'), input.getValue('project-name', baris))
 	WebUI.delay(1)
 	WebUI.takeScreenshot()
 	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Button Delete'))
+	WebUI.delay(1)
+	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Button-Yes, sure'))
+	WebUI.delay(5)
+	WebUI.verifyTextPresent('Project deleted successfully', false, FailureHandling.OPTIONAL)
 	WebUI.delay(1)
 	
 }

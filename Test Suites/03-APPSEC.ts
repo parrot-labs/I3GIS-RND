@@ -33,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>53724790-ead4-445c-8613-359c4a625ef2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02-APPSEC/02-Project/00-Create New Project</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>c5f5edf1-8734-4350-8cbc-35fca5f595f9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

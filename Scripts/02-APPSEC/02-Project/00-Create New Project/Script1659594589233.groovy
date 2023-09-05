@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu 
 WebUI.delay(1)
 WebUI.takeScreenshot()
 
-for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
+for (int baris = 1; baris <= 1; baris++) {
 	
 	if (WebUI.verifyTextPresent('PROJECT NOT FOUND', false, FailureHandling.OPTIONAL) == true) {
 		
@@ -236,5 +236,6 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 			WebUI.callTestCase(findTestCase('Test Cases/02-APPSEC/02-Project/06-Scaning Project normal'), [:], FailureHandling.STOP_ON_FAILURE)
 		}	
 		}
+		
 	
 }

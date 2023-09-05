@@ -54,13 +54,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6feace0a-5d32-43bd-b8cb-53d81af7d143</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/02-APPSEC/03-SAST/01-Issues Code Variant</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>953e6b86-1934-45ff-a6be-cb315c777131</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

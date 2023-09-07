@@ -34,7 +34,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	WebUI.takeScreenshot()
 }
 
-TestObject issue = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/ul/div/ul/li[1]/div[2]/div[2]/div")
+TestObject issue = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/div/div[1]/ul/li[1]/div[2]/div[2]/div")
 String text = WebUI.getText(issue)
 
 WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Issue Code/Button Statuses'))
@@ -45,12 +45,15 @@ WebUI.delay(1)
 WebUI.takeScreenshot()
 //CEK FILTER
 WebUI.delay(2)
+if(WebUI.verifyElementClickable(findTestObject('Object Repository/03-SAST/03-Issues Code/button_Reset Filters'), FailureHandling.OPTIONAL) == true) {
+	WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Button-Showing-Filter'))
+}
 WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Statuses/Statuses'))
 WebUI.delay(1)
 WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Statuses/Div Confirmed'))
 WebUI.delay(2)
-TestObject issueafter = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/ul/div/ul/li[1]/div[2]/div[2]/div")
+TestObject issueafter = new TestObject().addProperty('xpath', ConditionType.EQUALS, "/html/body/div/div[6]/div/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/div/div[1]/ul/li[1]/div[2]/div[2]/div")
 String text1 = WebUI.getText(issueafter)
 WebUI.verifyEqual(text, text1, FailureHandling.STOP_ON_FAILURE)
 WebUI.takeScreenshot()
@@ -60,6 +63,6 @@ WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Issue Code/
 WebUI.delay(1)
 WebUI.verifyTextPresent('Change Issue Transition successfully', false, FailureHandling.STOP_ON_FAILURE)
 WebUI.takeScreenshot()
-WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Button Clear FIlter'))
+WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/button_Reset Filters'))
 WebUI.delay(1)
 

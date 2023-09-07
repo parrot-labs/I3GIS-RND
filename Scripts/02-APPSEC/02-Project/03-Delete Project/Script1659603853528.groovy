@@ -26,13 +26,13 @@ WebUI.takeScreenshot()
 
 for (int baris = 1; baris <= 1; baris++) {
 
-	WebUI.waitForElementClickable(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Setting Project'), 0, FailureHandling.OPTIONAL)
+	WebUI.waitForElementClickable(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Button-Setting-project'), 0, FailureHandling.OPTIONAL)
 	
 //	String name = input.getValue('project-name', baris)
 //	String result = name.toLowerCase();
 //	WebUI.verifyTextPresent(result, false, FailureHandling.OPTIONAL)
 	
-	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Menu Summary Project/Button Setting Project'))
+	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Button-Setting-project'))
 	WebUI.delay(1)
 	WebUI.takeScreenshot()
 	WebUI.scrollToElement(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Input Delete Project'), 0)

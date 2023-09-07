@@ -166,7 +166,7 @@ for (int baris = 1; baris <= 1; baris++) {
 				WebUI.takeScreenshot()
 				
 				WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Detail Project-Create Project/Button Create project'))
-				WebUI.delay(5)
+				WebUI.delay(7)
 				WebUI.takeScreenshot()
 				WebUI.verifyTextPresent(input.getValue('verify', baris), false, FailureHandling.OPTIONAL)
 				WebUI.callTestCase(findTestCase('Test Cases/02-APPSEC/02-Project/06-Scaning Project normal'), [:], FailureHandling.STOP_ON_FAILURE)

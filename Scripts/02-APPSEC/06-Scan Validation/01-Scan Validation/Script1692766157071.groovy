@@ -65,7 +65,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	WebUI.click(findTestObject('Object Repository/07-Scan Validation/Button-Set as Priority'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/07-Scan Validation/Button-Yes, Set as Priority'))
-	WebUI.delay(1)
+	WebUI.delay(4)
 	WebUI.verifyTextPresent('Set priority to all project success', false, FailureHandling.STOP_ON_FAILURE)
 	WebUI.takeScreenshot()
 	
@@ -77,7 +77,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	WebUI.click(findTestObject('Object Repository/07-Scan Validation/Button-Set as Priority'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/07-Scan Validation/Button-Yes, Set as Priority'))
-	WebUI.delay(1)
+	WebUI.delay(4)
 	WebUI.verifyTextPresent('Set priority to all project success', false, FailureHandling.STOP_ON_FAILURE)
 	WebUI.takeScreenshot()
 	

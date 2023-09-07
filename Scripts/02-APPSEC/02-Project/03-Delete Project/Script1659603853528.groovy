@@ -42,7 +42,7 @@ for (int baris = 1; baris <= 1; baris++) {
 	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Button Delete'))
 	WebUI.delay(1)
 	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Project Setting/Button-Yes, sure'))
-	WebUI.delay(5)
+	WebUI.delay(7)
 	WebUI.verifyTextPresent('Project deleted successfully', false, FailureHandling.OPTIONAL)
 	WebUI.delay(1)
 	

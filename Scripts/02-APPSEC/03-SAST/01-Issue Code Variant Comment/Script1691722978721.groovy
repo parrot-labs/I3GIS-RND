@@ -45,7 +45,7 @@ WebUI.delay(1)
 WebUI.takeScreenshot()
 //CEK FILTER
 WebUI.delay(2)
-if(WebUI.verifyElementClickable(findTestObject('Object Repository/03-SAST/03-Issues Code/button_Reset Filters'), FailureHandling.OPTIONAL) == true) {
+if(WebUI.verifyElementClickable(findTestObject('Object Repository/03-SAST/03-Issues Code/button_Reset Filters'), FailureHandling.OPTIONAL) == false) {
 	WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Button-Showing-Filter'))
 }
 WebUI.click(findTestObject('Object Repository/03-SAST/03-Issues Code/Statuses/Statuses'))

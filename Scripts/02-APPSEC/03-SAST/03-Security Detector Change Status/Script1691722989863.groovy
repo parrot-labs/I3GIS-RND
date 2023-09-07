@@ -25,8 +25,6 @@ WebUI.delay(1)
 WebUI.click(findTestObject('Object Repository/03-SAST/Button SAST'))
 WebUI.delay(1)
 WebUI.click(findTestObject('Object Repository/03-SAST/Button Security Detector'))
-WebUI.delay(1)
-WebUI.takeScreenshot()
 
 boolean status = true
 while (status == true) {

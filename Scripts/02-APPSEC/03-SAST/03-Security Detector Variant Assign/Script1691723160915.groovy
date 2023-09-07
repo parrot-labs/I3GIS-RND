@@ -28,6 +28,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 	
 	if(user == 'Not Assigned') {
 		
+		WebUI.takeScreenshot()
 		WebUI.click(findTestObject('Object Repository/03-SAST/03-Security Detector/Assign/Button-Assign'))
 		WebUI.delay(1)
 		WebUI.setText(findTestObject('Object Repository/03-SAST/03-Security Detector/Assign/Input-User'), input.getValue('assign', baris))
@@ -48,6 +49,7 @@ for (int baris = 1; baris <= input.getRowNumbers(); baris++) {
 		WebUI.takeScreenshot()
 		WebUI.verifyTextPresent('Revoke User Successfully', false, FailureHandling.OPTIONAL)
 		WebUI.delay(3)
+		WebUI.takeScreenshot()
 		WebUI.click(findTestObject('Object Repository/03-SAST/03-Security Detector/Assign/Button-Assign'))
 		WebUI.delay(1)
 		WebUI.setText(findTestObject('Object Repository/03-SAST/03-Security Detector/Assign/Input-User'), input.getValue('assign', baris))

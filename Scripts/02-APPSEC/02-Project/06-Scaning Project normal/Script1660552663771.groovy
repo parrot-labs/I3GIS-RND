@@ -21,6 +21,7 @@ import com.kms.katalon.core.testobject.ConditionType as ConditionType
 	
 	WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Scan Project/Button Scan Project'))
 	WebUI.delay(1)
+	WebUI.takeScreenshot()
 	
 	if(WebUI.verifyTextPresent('Please update your code', false, FailureHandling.OPTIONAL) == true) {
 		WebUI.click(findTestObject('Object Repository/AppSec/02-Summary Project/02-Scan Project/Scanning Progres'))
@@ -42,6 +43,7 @@ import com.kms.katalon.core.testobject.ConditionType as ConditionType
 		println(css_color)
 		wait = WebUI.verifyEqual(css_color, GlobalVariable.grey,FailureHandling.OPTIONAL)
 	}
+	WebUI.takeScreenshot()
 	boolean misconf = true
 	while (misconf == true) {
 		
